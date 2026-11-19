@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Financial Data Analytics Dashboard built with JavaScript and SQL analysis." />
+  <title>FinSight | Financial Analytics</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@500;600;700;800&display=swap" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="app-shell">
+    <aside class="sidebar">
+      <div class="brand"><div class="brand-mark">F</div><div><b>FinSight</b><small>ANALYTICS STUDIO</small></div></div>
+      <div class="side-label">WORKSPACE</div>
+      <a class="nav active" href="#overview"><span>▦</span> Overview</a>
+      <a class="nav" href="#trends"><span>⌁</span> Trends & insights</a>
+      <a class="nav" href="#transactions"><span>▤</span> Transactions</a>
+      <div class="sidebar-bottom"><div class="live-dot"></div><span>Demo dataset loaded</span><small>Portfolio project</small></div>
+    </aside>
+
+    <main class="main-content">
+      <header class="topbar">
+        <div><div class="eyebrow">FINANCIAL INTELLIGENCE</div><h1>Analytics overview</h1><p class="subhead">Understand transaction activity and financial performance.</p></div>
+        <div class="top-actions"><span class="date-chip">▣ &nbsp; Jan – Dec 2025</span><div class="avatar">FA</div></div>
+      </header>
+
+      <section class="filter-bar">
+        <label>City<select id="cityFilter"><option value="All">All cities</option></select></label>
+        <label>Category<select id="categoryFilter"><option value="All">All categories</option></select></label>
+        <label>Transaction status<select id="statusFilter"><option value="Completed">Completed</option><option value="All">All statuses</option><option>Pending</option><option>Failed</option></select></label>
+        <button id="resetBtn" class="reset-btn">Reset filters ↺</button>
+      </section>
+
+      <section class="kpi-grid" id="overview">
+        <article class="kpi-card"><div class="kpi-top"><span>Total income</span><span class="kpi-icon green">↗</span></div><div class="kpi-value" id="incomeValue">₹0</div><div class="kpi-foot">Completed income transactions</div></article>
+        <article class="kpi-card"><div class="kpi-top"><span>Total expenses</span><span class="kpi-icon red">↘</span></div><div class="kpi-value" id="expenseValue">₹0</div><div class="kpi-foot">Completed expense transactions</div></article>
+        <article class="kpi-card"><div class="kpi-top"><span>Net cash flow</span><span class="kpi-icon purple">⌁</span></div><div class="kpi-value" id="cashValue">₹0</div><div class="kpi-foot">Income + refunds − expenses</div></article>
+        <article class="kpi-card"><div class="kpi-top"><span>Transactions</span><span class="kpi-icon blue">▤</span></div><div class="kpi-value" id="countValue">0</div><div class="kpi-foot">Records matching filters</div></article>
+      </section>
+
+      <section class="chart-grid" id="trends">
+        <article class="panel wide"><div class="panel-heading"><div><h2>Monthly cash movement</h2><p>Income and expenses over time</p></div><span class="panel-tag">MONTHLY</span></div><div class="chart-wrap"><canvas id="trendChart"></canvas></div></article>
+        <article class="panel"><div class="panel-heading"><div><h2>Expense breakdown</h2><p>Spending by category</p></div><span class="panel-tag">CATEGORY</span></div><div class="chart-wrap doughnut"><canvas id="categoryChart"></canvas></div><div id="categoryLegend" class="legend"></div></article>
+        <article class="panel"><div class="panel-heading"><div><h2>Payment methods</h2><p>Completed transaction count</p></div><span class="panel-tag">CHANNEL</span></div><div class="chart-wrap"><canvas id="paymentChart"></canvas></div></article>
+        <article class="panel wide"><div class="panel-heading"><div><h2>Top merchants</h2><p>Highest transaction value</p></div><span class="panel-tag">TOP 8</span></div><div class="chart-wrap"><canvas id="merchantChart"></canvas></div></article>
+      </section>
+
+      <section class="panel table-panel" id="transactions">
+        <div class="panel-heading table-heading"><div><h2>Recent transactions</h2><p>Explore the underlying transaction records</p></div><button id="downloadBtn" class="download-btn">↓ Export CSV</button></div>
+        <div class="table-scroll"><table><thead><tr><th>TRANSACTION</th><th>DATE</th><th>CATEGORY</th><th>CUSTOMER</th><th>METHOD</th><th>AMOUNT</th><th>STATUS</th></tr></thead><tbody id="transactionRows"></tbody></table></div>
+        <div class="table-footer"><span id="rowCount">Showing 0 records</span><span>Sample data · INR</span></div>
+      </section>
+      <footer>FinSight Analytics · Built with JavaScript, Chart.js & SQL · Dataset is synthetic and for educational use only.</footer>
+    </main>
+  </div>
+  <script src="app.js"></script>
+</body>
+</html>

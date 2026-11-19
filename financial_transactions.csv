@@ -1,0 +1,1201 @@
+transaction_id,transaction_date,customer_id,category,transaction_type,merchant,payment_method,amount,city,status
+1,2025-11-24,C1018,Food,Expense,Fresh Mart,Cash,1918.49,Hyderabad,Completed
+2,2025-01-17,C1004,Food,Expense,Cafe Corner,Cash,741.94,Bengaluru,Completed
+3,2025-10-29,C1021,Shopping,Expense,Home Needs,Debit Card,7889.05,Mumbai,Completed
+4,2025-06-22,C1045,Food,Expense,Daily Needs,UPI,1104.84,Delhi,Completed
+5,2025-03-05,C1071,Investment,Income,Equity Broker,Cash,11977.5,Mumbai,Completed
+6,2025-12-27,C1011,Food,Expense,Cafe Corner,UPI,1737.84,Bengaluru,Completed
+7,2025-11-22,C1046,Salary,Income,ABC Technologies,Debit Card,34759.25,Delhi,Completed
+8,2025-11-28,C1032,Food,Expense,Cafe Corner,Net Banking,1678.7,Bengaluru,Completed
+9,2025-11-24,C1099,Entertainment,Expense,Movie House,Credit Card,924.73,Hyderabad,Completed
+10,2025-07-25,C1113,Shopping,Expense,Electro World,Credit Card,2293.35,Delhi,Completed
+11,2025-11-26,C1072,Bills,Expense,Mobile Network,Cash,1691.96,Bengaluru,Completed
+12,2025-07-24,C1064,Travel,Expense,City Cabs,UPI,5984.76,Hyderabad,Completed
+13,2025-03-23,C1009,Salary,Income,XYZ Solutions,Net Banking,50329.6,Nagpur,Failed
+14,2025-09-28,C1088,Shopping,Expense,Urban Store,Cash,5202.42,Mumbai,Completed
+15,2025-06-24,C1093,Food,Expense,Daily Needs,Cash,1228.22,Pune,Completed
+16,2025-02-24,C1082,Freelance,Income,Consulting Desk,Cash,9565.79,Pune,Completed
+17,2025-03-24,C1001,Bills,Expense,Mobile Network,Net Banking,4003.82,Hyderabad,Completed
+18,2025-07-05,C1040,Freelance,Income,Design Studio,UPI,21296.64,Pune,Completed
+19,2025-02-10,C1098,Food,Expense,Cafe Corner,Credit Card,1343.48,Delhi,Completed
+20,2025-10-09,C1028,Food,Expense,Cafe Corner,Debit Card,1437.27,Bengaluru,Failed
+21,2025-11-29,C1032,Travel,Expense,Metro Travel,UPI,5427.8,Mumbai,Completed
+22,2025-10-11,C1081,Shopping,Expense,Urban Store,Credit Card,2371.85,Hyderabad,Completed
+23,2025-06-19,C1028,Food,Expense,Cafe Corner,Cash,785.51,Nagpur,Completed
+24,2025-08-31,C1013,Salary,Income,Northstar Services,Net Banking,36424.59,Mumbai,Completed
+25,2025-08-28,C1084,Freelance,Income,Consulting Desk,UPI,4191.77,Hyderabad,Completed
+26,2025-06-23,C1025,Salary,Income,ABC Technologies,Cash,31556.14,Bengaluru,Completed
+27,2025-04-04,C1057,Shopping,Expense,Urban Store,UPI,2623.35,Delhi,Failed
+28,2025-01-08,C1109,Investment,Income,Mutual Fund,Credit Card,27864.64,Bengaluru,Completed
+29,2025-04-20,C1022,Freelance,Income,DataWorks,UPI,22853.74,Bengaluru,Completed
+30,2025-08-21,C1101,Shopping,Expense,Home Needs,Credit Card,6421.03,Pune,Completed
+31,2025-01-30,C1008,Healthcare,Expense,Care Pharmacy,Cash,3886.93,Bengaluru,Completed
+32,2025-09-29,C1024,Food,Expense,Fresh Mart,Cash,2411.75,Hyderabad,Completed
+33,2025-05-01,C1075,Travel,Expense,City Cabs,Cash,5667.1,Hyderabad,Completed
+34,2025-10-26,C1086,Healthcare,Expense,Health Plus,Debit Card,2351.31,Pune,Completed
+35,2025-03-09,C1097,Entertainment,Expense,Movie House,UPI,1189.99,Bengaluru,Completed
+36,2025-10-16,C1028,Investment,Income,Savings Plan,Debit Card,3124.56,Pune,Completed
+37,2025-02-05,C1021,Freelance,Income,DataWorks,Cash,11129.6,Delhi,Completed
+38,2025-12-01,C1120,Bills,Expense,Electricity Board,Credit Card,3505.38,Mumbai,Completed
+39,2025-02-24,C1037,Salary,Income,Northstar Services,Credit Card,34326.87,Delhi,Completed
+40,2025-12-18,C1116,Entertainment,Expense,Movie House,UPI,1071.15,Delhi,Completed
+41,2025-05-22,C1034,Food,Expense,Cafe Corner,Net Banking,1000.5,Nagpur,Completed
+42,2025-10-15,C1116,Food,Expense,Cafe Corner,Cash,419.3,Hyderabad,Completed
+43,2025-10-26,C1047,Healthcare,Expense,Care Pharmacy,Debit Card,3122.55,Pune,Completed
+44,2025-12-08,C1053,Food,Expense,Cafe Corner,Credit Card,2005.26,Pune,Pending
+45,2025-04-01,C1095,Freelance,Income,DataWorks,Net Banking,3545.3,Delhi,Completed
+46,2025-05-08,C1112,Shopping,Expense,Urban Store,Net Banking,7192.68,Pune,Completed
+47,2025-08-24,C1029,Travel,Expense,City Cabs,Credit Card,4977.06,Bengaluru,Completed
+48,2025-02-05,C1083,Investment,Income,Savings Plan,Net Banking,9094.62,Delhi,Failed
+49,2025-10-02,C1034,Travel,Expense,Metro Travel,Cash,457.32,Mumbai,Completed
+50,2025-11-02,C1078,Bills,Expense,Electricity Board,Net Banking,3778.45,Nagpur,Completed
+51,2025-01-23,C1069,Education,Expense,Online Academy,Credit Card,519.45,Mumbai,Completed
+52,2025-12-07,C1085,Freelance,Income,Design Studio,Debit Card,16709.42,Nagpur,Completed
+53,2025-07-29,C1025,Shopping,Expense,Home Needs,Net Banking,6426.27,Delhi,Completed
+54,2025-03-31,C1001,Entertainment,Expense,Music Stream,Debit Card,1193.13,Pune,Completed
+55,2025-10-24,C1087,Healthcare,Expense,Care Pharmacy,Cash,2391.29,Bengaluru,Completed
+56,2025-03-28,C1080,Entertainment,Expense,Music Stream,UPI,1136.5,Pune,Completed
+57,2025-04-26,C1006,Salary,Income,ABC Technologies,Net Banking,33841.24,Nagpur,Completed
+58,2025-02-07,C1092,Bills,Expense,Water Utility,Net Banking,4487.62,Bengaluru,Completed
+59,2025-12-02,C1114,Entertainment,Expense,Movie House,Net Banking,3145.78,Pune,Completed
+60,2025-12-23,C1109,Bills,Expense,Electricity Board,Net Banking,725.98,Pune,Completed
+61,2025-12-08,C1097,Bills,Expense,Water Utility,Cash,3015.16,Delhi,Completed
+62,2025-08-07,C1115,Salary,Income,ABC Technologies,Net Banking,57872.32,Bengaluru,Completed
+63,2025-05-07,C1100,Salary,Income,Northstar Services,Net Banking,41638.68,Delhi,Completed
+64,2025-08-14,C1041,Food,Expense,Fresh Mart,Credit Card,892.89,Pune,Completed
+65,2025-12-22,C1043,Food,Expense,Food Hub,Net Banking,731.39,Hyderabad,Completed
+66,2025-08-04,C1003,Travel,Expense,Fuel Station,Net Banking,4687.84,Hyderabad,Pending
+67,2025-06-02,C1107,Salary,Income,XYZ Solutions,Cash,76206.88,Delhi,Completed
+68,2025-11-05,C1035,Freelance,Income,DataWorks,Net Banking,13741.05,Hyderabad,Completed
+69,2025-12-09,C1060,Entertainment,Expense,Movie House,Cash,1534.25,Nagpur,Completed
+70,2025-07-21,C1055,Healthcare,Expense,Care Pharmacy,Net Banking,4708.4,Pune,Completed
+71,2025-07-14,C1113,Shopping,Expense,Home Needs,Debit Card,4364.94,Bengaluru,Completed
+72,2025-02-11,C1045,Bills,Expense,Internet Services,UPI,3870.61,Delhi,Completed
+73,2025-01-16,C1003,Investment,Income,Savings Plan,Credit Card,6781.46,Pune,Completed
+74,2025-12-09,C1033,Food,Expense,Daily Needs,Credit Card,2382.45,Nagpur,Completed
+75,2025-02-28,C1040,Salary,Income,ABC Technologies,Cash,34825.95,Hyderabad,Completed
+76,2025-10-22,C1092,Entertainment,Expense,Movie House,UPI,3361.97,Nagpur,Completed
+77,2025-11-18,C1088,Shopping,Expense,Urban Store,Cash,6426.14,Hyderabad,Completed
+78,2025-08-08,C1002,Entertainment,Expense,Music Stream,Net Banking,427.56,Hyderabad,Completed
+79,2025-07-05,C1056,Entertainment,Expense,Movie House,Cash,2934.73,Delhi,Completed
+80,2025-10-03,C1106,Salary,Income,Northstar Services,Cash,52892.43,Mumbai,Completed
+81,2025-05-06,C1113,Salary,Income,XYZ Solutions,Credit Card,30199.77,Bengaluru,Completed
+82,2025-12-09,C1024,Travel,Expense,Fuel Station,Credit Card,463.59,Mumbai,Completed
+83,2025-06-24,C1072,Shopping,Expense,Urban Store,Cash,5567.32,Pune,Completed
+84,2025-07-28,C1083,Bills,Expense,Water Utility,Net Banking,3911.74,Hyderabad,Completed
+85,2025-04-24,C1048,Travel,Expense,Fuel Station,Cash,1686.84,Nagpur,Completed
+86,2025-10-09,C1033,Travel,Expense,Metro Travel,UPI,4306.27,Delhi,Completed
+87,2025-03-03,C1089,Salary,Income,ABC Technologies,Credit Card,82052.65,Pune,Completed
+88,2025-05-22,C1037,Education,Expense,Learning Hub,Credit Card,11730.98,Mumbai,Completed
+89,2025-04-02,C1006,Shopping,Expense,Urban Store,Cash,6518.16,Mumbai,Completed
+90,2025-03-06,C1002,Entertainment,Expense,Game Zone,Debit Card,2684.21,Bengaluru,Completed
+91,2025-06-24,C1062,Shopping,Expense,Urban Store,UPI,936.7,Bengaluru,Completed
+92,2025-10-23,C1073,Entertainment,Expense,Music Stream,UPI,376.91,Pune,Completed
+93,2025-08-02,C1067,Healthcare,Expense,City Clinic,Net Banking,5577.04,Bengaluru,Completed
+94,2025-10-29,C1080,Investment,Income,Mutual Fund,Cash,9856.03,Delhi,Completed
+95,2025-04-17,C1031,Entertainment,Expense,Movie House,Cash,1073.33,Hyderabad,Completed
+96,2025-07-29,C1030,Bills,Expense,Mobile Network,Debit Card,3172.15,Delhi,Completed
+97,2025-02-06,C1081,Entertainment,Expense,Game Zone,Credit Card,3248.91,Bengaluru,Completed
+98,2025-04-26,C1010,Entertainment,Expense,Movie House,Credit Card,3197.76,Mumbai,Completed
+99,2025-10-19,C1060,Freelance,Income,Consulting Desk,Debit Card,12661.38,Delhi,Completed
+100,2025-05-20,C1006,Bills,Expense,Water Utility,Debit Card,2722.08,Nagpur,Completed
+101,2025-02-16,C1076,Shopping,Expense,Urban Store,Debit Card,6231.54,Nagpur,Completed
+102,2025-03-31,C1024,Bills,Expense,Water Utility,Net Banking,3431.79,Hyderabad,Completed
+103,2025-07-29,C1043,Travel,Expense,Fuel Station,Net Banking,4119.76,Mumbai,Completed
+104,2025-07-25,C1059,Salary,Income,ABC Technologies,Debit Card,58005.8,Mumbai,Completed
+105,2025-07-26,C1001,Freelance,Income,Consulting Desk,Cash,21148.4,Bengaluru,Completed
+106,2025-04-07,C1057,Bills,Expense,Electricity Board,Credit Card,3301.85,Mumbai,Completed
+107,2025-05-28,C1081,Bills,Expense,Internet Services,Credit Card,3642.13,Mumbai,Completed
+108,2025-10-10,C1015,Travel,Expense,Fuel Station,UPI,1580.79,Delhi,Completed
+109,2025-09-13,C1091,Freelance,Income,DataWorks,Net Banking,9420.95,Bengaluru,Failed
+110,2025-05-05,C1077,Bills,Expense,Internet Services,UPI,1150.89,Mumbai,Completed
+111,2025-08-01,C1001,Travel,Expense,Rail Connect,Debit Card,4789.99,Nagpur,Completed
+112,2025-12-04,C1045,Bills,Expense,Mobile Network,Cash,1168.68,Nagpur,Completed
+113,2025-06-14,C1031,Freelance,Income,Consulting Desk,Net Banking,24577.04,Pune,Completed
+114,2025-07-30,C1104,Food,Expense,Food Hub,Net Banking,1925.59,Delhi,Completed
+115,2025-11-30,C1005,Investment,Income,Mutual Fund,Cash,15364.53,Nagpur,Completed
+116,2025-02-21,C1068,Freelance,Income,DataWorks,UPI,12686.74,Delhi,Completed
+117,2025-12-02,C1101,Investment,Income,Equity Broker,Debit Card,3170.02,Nagpur,Completed
+118,2025-11-29,C1069,Food,Expense,Food Hub,Debit Card,989.27,Delhi,Completed
+119,2025-09-07,C1009,Freelance,Income,Design Studio,Debit Card,3789.78,Pune,Completed
+120,2025-08-11,C1091,Investment,Income,Mutual Fund,Net Banking,23050.72,Pune,Completed
+121,2025-01-15,C1048,Food,Expense,Food Hub,Credit Card,2041.32,Pune,Completed
+122,2025-10-17,C1079,Entertainment,Expense,Music Stream,Cash,794.19,Delhi,Completed
+123,2025-10-26,C1033,Food,Expense,Fresh Mart,Net Banking,1287.59,Mumbai,Completed
+124,2025-03-22,C1039,Food,Expense,Food Hub,Debit Card,2376.78,Bengaluru,Completed
+125,2025-04-12,C1014,Investment,Income,Mutual Fund,Net Banking,25746.73,Nagpur,Completed
+126,2025-06-01,C1107,Investment,Income,Savings Plan,Net Banking,9561.69,Mumbai,Completed
+127,2025-12-18,C1117,Salary,Income,Northstar Services,Net Banking,83416.17,Mumbai,Completed
+128,2025-04-28,C1080,Healthcare,Expense,City Clinic,Credit Card,2595.78,Delhi,Completed
+129,2025-11-18,C1075,Entertainment,Expense,Music Stream,Credit Card,1219.48,Hyderabad,Completed
+130,2025-06-17,C1017,Salary,Income,Northstar Services,Debit Card,35538.4,Nagpur,Completed
+131,2025-05-20,C1106,Salary,Income,XYZ Solutions,Debit Card,40418.21,Delhi,Completed
+132,2025-02-28,C1029,Bills,Expense,Water Utility,Cash,838.85,Mumbai,Completed
+133,2025-07-22,C1087,Food,Expense,Daily Needs,Cash,1457.29,Bengaluru,Completed
+134,2025-07-10,C1114,Food,Expense,Daily Needs,Cash,776.1,Pune,Completed
+135,2025-11-22,C1039,Salary,Income,Northstar Services,Net Banking,79563.26,Hyderabad,Completed
+136,2025-01-20,C1114,Shopping,Expense,Style Point,Net Banking,4687.31,Bengaluru,Completed
+137,2025-12-23,C1096,Investment,Income,Savings Plan,Credit Card,13154.68,Bengaluru,Completed
+138,2025-09-08,C1089,Entertainment,Expense,Music Stream,Credit Card,3298.88,Bengaluru,Completed
+139,2025-05-01,C1088,Salary,Income,XYZ Solutions,Cash,30961.28,Delhi,Completed
+140,2025-07-23,C1106,Shopping,Expense,Home Needs,UPI,8729.76,Delhi,Completed
+141,2025-11-24,C1032,Healthcare,Expense,Care Pharmacy,Cash,345.23,Pune,Completed
+142,2025-10-11,C1043,Shopping,Expense,Style Point,Cash,2335.59,Hyderabad,Completed
+143,2025-03-16,C1103,Investment,Income,Mutual Fund,UPI,16666.25,Delhi,Completed
+144,2025-03-09,C1042,Food,Expense,Fresh Mart,Credit Card,2027.47,Mumbai,Completed
+145,2025-08-04,C1100,Bills,Expense,Mobile Network,Cash,3855.49,Nagpur,Completed
+146,2025-09-15,C1117,Shopping,Expense,Electro World,Net Banking,5728.41,Delhi,Pending
+147,2025-02-01,C1055,Investment,Income,Savings Plan,UPI,25571.66,Bengaluru,Completed
+148,2025-08-16,C1009,Food,Expense,Cafe Corner,Debit Card,431.78,Nagpur,Completed
+149,2025-10-08,C1038,Education,Expense,Book Store,Cash,4880.4,Nagpur,Completed
+150,2025-12-26,C1071,Food,Expense,Cafe Corner,Net Banking,1723.1,Bengaluru,Completed
+151,2025-07-31,C1013,Travel,Expense,Rail Connect,Net Banking,2884.94,Mumbai,Completed
+152,2025-07-11,C1061,Investment,Income,Mutual Fund,UPI,20917.81,Hyderabad,Completed
+153,2025-02-19,C1017,Salary,Income,Northstar Services,UPI,47358.81,Nagpur,Pending
+154,2025-10-15,C1086,Shopping,Expense,Home Needs,UPI,1538.97,Mumbai,Completed
+155,2025-06-30,C1062,Food,Expense,Cafe Corner,UPI,1391.68,Mumbai,Completed
+156,2025-07-08,C1055,Food,Expense,Fresh Mart,Cash,876.78,Delhi,Completed
+157,2025-05-17,C1118,Food,Expense,Daily Needs,Debit Card,864.86,Hyderabad,Completed
+158,2025-03-15,C1082,Healthcare,Expense,Care Pharmacy,UPI,2925.33,Delhi,Completed
+159,2025-07-12,C1093,Travel,Expense,Rail Connect,Cash,2243.11,Nagpur,Completed
+160,2025-01-27,C1011,Food,Expense,Daily Needs,Net Banking,1947.48,Delhi,Completed
+161,2025-11-07,C1015,Bills,Expense,Mobile Network,Net Banking,1729.25,Hyderabad,Completed
+162,2025-12-14,C1029,Healthcare,Expense,City Clinic,Cash,3783.15,Hyderabad,Completed
+163,2025-06-04,C1098,Investment,Income,Equity Broker,Debit Card,23253.14,Mumbai,Completed
+164,2025-09-12,C1049,Salary,Income,Northstar Services,Credit Card,35541.69,Nagpur,Completed
+165,2025-12-09,C1111,Salary,Income,Northstar Services,UPI,29324.53,Bengaluru,Completed
+166,2025-02-09,C1074,Freelance,Income,DataWorks,Net Banking,15666.7,Mumbai,Completed
+167,2025-01-11,C1080,Investment,Income,Equity Broker,Debit Card,5984.32,Hyderabad,Completed
+168,2025-02-24,C1051,Shopping,Expense,Electro World,Debit Card,5505.41,Pune,Completed
+169,2025-03-28,C1025,Food,Expense,Daily Needs,Debit Card,1674.76,Delhi,Pending
+170,2025-11-27,C1019,Salary,Income,XYZ Solutions,Credit Card,39176.13,Pune,Completed
+171,2025-12-02,C1060,Food,Expense,Food Hub,Cash,2390.41,Delhi,Completed
+172,2025-11-16,C1057,Shopping,Expense,Urban Store,Net Banking,8753.27,Bengaluru,Completed
+173,2025-05-21,C1060,Healthcare,Expense,City Clinic,UPI,2593.21,Hyderabad,Completed
+174,2025-05-27,C1079,Food,Expense,Food Hub,Net Banking,2194.56,Nagpur,Completed
+175,2025-01-22,C1042,Bills,Expense,Water Utility,Cash,4144.17,Pune,Pending
+176,2025-08-19,C1092,Food,Expense,Fresh Mart,Cash,2273.04,Delhi,Completed
+177,2025-05-07,C1079,Education,Expense,Learning Hub,Debit Card,11896.34,Mumbai,Completed
+178,2025-07-18,C1102,Travel,Expense,Rail Connect,UPI,2228.69,Mumbai,Completed
+179,2025-12-14,C1117,Travel,Expense,Metro Travel,Debit Card,1736.38,Hyderabad,Completed
+180,2025-03-14,C1084,Freelance,Income,Consulting Desk,Net Banking,9825.1,Pune,Completed
+181,2025-02-13,C1105,Shopping,Expense,Style Point,Cash,3701.77,Hyderabad,Completed
+182,2025-08-05,C1028,Bills,Expense,Mobile Network,Net Banking,582.04,Pune,Completed
+183,2025-03-12,C1065,Food,Expense,Fresh Mart,Debit Card,915.53,Nagpur,Completed
+184,2025-07-12,C1080,Food,Expense,Cafe Corner,Net Banking,656.9,Hyderabad,Completed
+185,2025-12-13,C1097,Education,Expense,Online Academy,Net Banking,11650.27,Pune,Completed
+186,2025-06-08,C1116,Investment,Income,Mutual Fund,Debit Card,23746.74,Delhi,Pending
+187,2025-08-14,C1068,Bills,Expense,Water Utility,Credit Card,1767.97,Pune,Completed
+188,2025-03-12,C1062,Freelance,Income,DataWorks,Cash,4147.96,Hyderabad,Completed
+189,2025-09-22,C1098,Salary,Income,ABC Technologies,Debit Card,42103.78,Bengaluru,Completed
+190,2025-03-17,C1117,Salary,Income,ABC Technologies,Net Banking,30502.81,Mumbai,Completed
+191,2025-08-01,C1011,Food,Expense,Daily Needs,Credit Card,1379.52,Hyderabad,Completed
+192,2025-02-20,C1102,Salary,Income,ABC Technologies,Credit Card,63997.64,Hyderabad,Completed
+193,2025-08-30,C1058,Education,Expense,Online Academy,UPI,2096.12,Hyderabad,Completed
+194,2025-04-21,C1094,Salary,Income,Northstar Services,Cash,57928.25,Bengaluru,Completed
+195,2025-05-28,C1082,Shopping,Expense,Home Needs,UPI,1535.71,Hyderabad,Completed
+196,2025-09-13,C1031,Healthcare,Expense,Health Plus,Credit Card,311.76,Mumbai,Completed
+197,2025-11-11,C1086,Travel,Expense,City Cabs,Cash,3552.78,Mumbai,Completed
+198,2025-09-27,C1003,Bills,Expense,Water Utility,Net Banking,4038.86,Hyderabad,Completed
+199,2025-07-11,C1045,Shopping,Expense,Style Point,UPI,638.06,Nagpur,Completed
+200,2025-06-20,C1083,Food,Expense,Cafe Corner,Net Banking,1042.67,Delhi,Completed
+201,2025-04-04,C1100,Salary,Income,XYZ Solutions,UPI,28786.03,Mumbai,Completed
+202,2025-04-13,C1040,Freelance,Income,Consulting Desk,Net Banking,9943.11,Nagpur,Completed
+203,2025-01-19,C1046,Salary,Income,ABC Technologies,Debit Card,36466.21,Mumbai,Completed
+204,2025-07-08,C1050,Bills,Expense,Mobile Network,Credit Card,2300.1,Bengaluru,Completed
+205,2025-07-08,C1103,Freelance,Income,Design Studio,Net Banking,14424.07,Hyderabad,Completed
+206,2025-04-03,C1085,Bills,Expense,Mobile Network,Debit Card,1945.45,Bengaluru,Completed
+207,2025-08-07,C1094,Food,Expense,Daily Needs,Cash,1248.79,Bengaluru,Completed
+208,2025-01-30,C1103,Food,Expense,Cafe Corner,UPI,1684.4,Pune,Completed
+209,2025-12-14,C1009,Salary,Income,ABC Technologies,Debit Card,27087.94,Mumbai,Completed
+210,2025-10-18,C1048,Food,Expense,Daily Needs,Net Banking,595.24,Hyderabad,Completed
+211,2025-09-29,C1015,Travel,Expense,City Cabs,Credit Card,2092.0,Bengaluru,Completed
+212,2025-10-15,C1028,Food,Expense,Daily Needs,Net Banking,1993.67,Pune,Completed
+213,2025-02-07,C1012,Bills,Expense,Mobile Network,Debit Card,4544.06,Delhi,Completed
+214,2025-10-05,C1091,Shopping,Expense,Style Point,Debit Card,3049.63,Nagpur,Completed
+215,2025-04-13,C1064,Salary,Income,ABC Technologies,Debit Card,39204.17,Nagpur,Completed
+216,2025-08-28,C1079,Salary,Income,ABC Technologies,UPI,58098.82,Mumbai,Completed
+217,2025-09-03,C1010,Bills,Expense,Internet Services,Debit Card,3961.24,Delhi,Completed
+218,2025-08-27,C1100,Entertainment,Expense,Game Zone,Cash,1336.9,Pune,Completed
+219,2025-03-08,C1016,Bills,Expense,Internet Services,Debit Card,4598.21,Pune,Completed
+220,2025-12-30,C1037,Shopping,Expense,Urban Store,Debit Card,8553.61,Pune,Completed
+221,2025-10-10,C1012,Shopping,Expense,Style Point,Cash,5812.69,Nagpur,Completed
+222,2025-12-04,C1119,Entertainment,Expense,Game Zone,UPI,3176.6,Hyderabad,Completed
+223,2025-11-25,C1027,Salary,Income,Northstar Services,Net Banking,40879.35,Nagpur,Completed
+224,2025-09-12,C1083,Freelance,Income,DataWorks,Net Banking,15002.7,Pune,Completed
+225,2025-12-17,C1021,Travel,Expense,Fuel Station,Net Banking,2885.2,Bengaluru,Completed
+226,2025-06-24,C1094,Healthcare,Expense,City Clinic,Net Banking,2325.56,Pune,Completed
+227,2025-09-21,C1035,Healthcare,Expense,City Clinic,Credit Card,2369.99,Pune,Completed
+228,2025-05-29,C1054,Investment,Income,Mutual Fund,Credit Card,26060.75,Mumbai,Completed
+229,2025-06-10,C1060,Shopping,Expense,Home Needs,Debit Card,1854.41,Bengaluru,Completed
+230,2025-07-21,C1046,Bills,Expense,Electricity Board,UPI,4850.09,Mumbai,Completed
+231,2025-12-01,C1014,Entertainment,Refund,Music Stream,Credit Card,1142.97,Mumbai,Completed
+232,2025-07-26,C1025,Travel,Expense,Rail Connect,Cash,2583.32,Mumbai,Completed
+233,2025-09-16,C1080,Bills,Expense,Electricity Board,Credit Card,2974.36,Hyderabad,Completed
+234,2025-06-23,C1078,Healthcare,Expense,Health Plus,Net Banking,2686.12,Nagpur,Completed
+235,2025-01-20,C1059,Food,Expense,Cafe Corner,Cash,999.34,Nagpur,Completed
+236,2025-11-10,C1108,Shopping,Expense,Electro World,Cash,3840.11,Mumbai,Completed
+237,2025-09-18,C1105,Bills,Expense,Electricity Board,Debit Card,3689.33,Mumbai,Completed
+238,2025-08-02,C1089,Healthcare,Expense,Health Plus,UPI,5617.93,Nagpur,Completed
+239,2025-12-02,C1074,Salary,Income,ABC Technologies,UPI,71569.72,Nagpur,Completed
+240,2025-09-26,C1019,Entertainment,Expense,Game Zone,Credit Card,2245.13,Hyderabad,Completed
+241,2025-12-25,C1020,Food,Expense,Food Hub,Credit Card,292.61,Bengaluru,Completed
+242,2025-11-10,C1095,Freelance,Income,Consulting Desk,UPI,22201.99,Delhi,Completed
+243,2025-04-17,C1049,Healthcare,Expense,City Clinic,Credit Card,6987.24,Bengaluru,Completed
+244,2025-06-25,C1088,Bills,Expense,Mobile Network,Cash,3541.41,Bengaluru,Completed
+245,2025-05-07,C1039,Shopping,Expense,Electro World,Credit Card,3037.24,Delhi,Completed
+246,2025-06-12,C1093,Bills,Expense,Mobile Network,Debit Card,3022.19,Hyderabad,Completed
+247,2025-10-06,C1099,Travel,Expense,Metro Travel,Debit Card,5886.92,Hyderabad,Completed
+248,2025-02-10,C1062,Travel,Expense,Metro Travel,Credit Card,2821.54,Nagpur,Completed
+249,2025-10-15,C1076,Education,Expense,Learning Hub,Credit Card,2078.64,Hyderabad,Completed
+250,2025-09-29,C1043,Shopping,Expense,Home Needs,UPI,2479.11,Delhi,Completed
+251,2025-01-03,C1021,Investment,Income,Equity Broker,Net Banking,29359.41,Bengaluru,Completed
+252,2025-05-28,C1012,Shopping,Expense,Style Point,Cash,5990.13,Delhi,Completed
+253,2025-01-20,C1113,Freelance,Income,Design Studio,UPI,6851.43,Bengaluru,Completed
+254,2025-04-06,C1119,Freelance,Income,DataWorks,UPI,24166.89,Hyderabad,Completed
+255,2025-11-05,C1083,Food,Expense,Food Hub,Credit Card,2461.74,Nagpur,Completed
+256,2025-04-09,C1094,Salary,Income,XYZ Solutions,Debit Card,44841.05,Delhi,Completed
+257,2025-06-22,C1097,Salary,Income,ABC Technologies,Credit Card,59066.87,Nagpur,Completed
+258,2025-07-27,C1012,Salary,Income,XYZ Solutions,UPI,55916.84,Pune,Failed
+259,2025-09-02,C1031,Shopping,Expense,Home Needs,Debit Card,2608.4,Mumbai,Completed
+260,2025-10-21,C1008,Food,Expense,Fresh Mart,Net Banking,1720.79,Mumbai,Completed
+261,2025-12-18,C1040,Bills,Expense,Electricity Board,Debit Card,4528.03,Mumbai,Completed
+262,2025-04-23,C1059,Investment,Income,Savings Plan,Cash,14867.28,Mumbai,Completed
+263,2025-10-09,C1103,Freelance,Income,Consulting Desk,Credit Card,19661.71,Pune,Completed
+264,2025-11-02,C1058,Freelance,Income,Consulting Desk,Debit Card,4801.15,Hyderabad,Completed
+265,2025-02-27,C1074,Food,Expense,Cafe Corner,Credit Card,1482.21,Mumbai,Completed
+266,2025-08-15,C1012,Food,Expense,Food Hub,UPI,712.15,Bengaluru,Completed
+267,2025-08-01,C1104,Bills,Expense,Mobile Network,UPI,759.82,Bengaluru,Completed
+268,2025-01-02,C1006,Salary,Income,XYZ Solutions,Debit Card,59698.68,Delhi,Completed
+269,2025-01-31,C1120,Freelance,Income,DataWorks,UPI,4518.42,Mumbai,Completed
+270,2025-03-11,C1083,Salary,Income,XYZ Solutions,Debit Card,83700.0,Bengaluru,Completed
+271,2025-07-13,C1070,Travel,Expense,Metro Travel,Debit Card,4191.56,Hyderabad,Completed
+272,2025-10-03,C1107,Travel,Expense,City Cabs,UPI,1025.88,Mumbai,Completed
+273,2025-10-06,C1059,Travel,Expense,Rail Connect,Credit Card,2461.88,Mumbai,Completed
+274,2025-02-27,C1120,Food,Expense,Fresh Mart,Credit Card,1735.44,Pune,Completed
+275,2025-11-01,C1007,Food,Expense,Cafe Corner,UPI,1595.02,Bengaluru,Completed
+276,2025-10-04,C1065,Shopping,Expense,Electro World,Credit Card,7841.71,Delhi,Completed
+277,2025-10-23,C1039,Healthcare,Expense,Care Pharmacy,Cash,4773.22,Pune,Completed
+278,2025-05-21,C1117,Food,Expense,Cafe Corner,Net Banking,2384.17,Nagpur,Completed
+279,2025-06-26,C1101,Investment,Income,Savings Plan,Debit Card,20468.93,Delhi,Completed
+280,2025-03-18,C1031,Shopping,Expense,Style Point,Debit Card,2062.97,Delhi,Completed
+281,2025-08-26,C1054,Freelance,Income,Consulting Desk,Cash,15372.49,Pune,Completed
+282,2025-05-11,C1109,Shopping,Expense,Electro World,UPI,5997.0,Nagpur,Completed
+283,2025-04-08,C1006,Food,Expense,Fresh Mart,Credit Card,1098.63,Nagpur,Completed
+284,2025-10-14,C1039,Shopping,Expense,Urban Store,Credit Card,2275.56,Pune,Pending
+285,2025-03-02,C1118,Salary,Income,ABC Technologies,Cash,70259.84,Delhi,Completed
+286,2025-05-03,C1069,Healthcare,Expense,Health Plus,Debit Card,5473.49,Mumbai,Completed
+287,2025-09-20,C1103,Freelance,Income,Consulting Desk,Net Banking,13252.09,Mumbai,Completed
+288,2025-07-09,C1095,Shopping,Expense,Style Point,UPI,888.58,Mumbai,Completed
+289,2025-10-27,C1043,Healthcare,Expense,Care Pharmacy,Net Banking,3039.53,Nagpur,Completed
+290,2025-09-13,C1098,Healthcare,Expense,City Clinic,Net Banking,6615.56,Bengaluru,Completed
+291,2025-06-30,C1118,Food,Expense,Fresh Mart,Cash,1870.71,Hyderabad,Completed
+292,2025-02-08,C1098,Investment,Income,Mutual Fund,Net Banking,20378.25,Pune,Completed
+293,2025-04-29,C1059,Food,Expense,Daily Needs,UPI,589.82,Nagpur,Completed
+294,2025-11-12,C1003,Freelance,Income,Design Studio,Cash,17504.26,Nagpur,Completed
+295,2025-01-09,C1003,Bills,Expense,Water Utility,Credit Card,1736.33,Hyderabad,Completed
+296,2025-09-26,C1105,Food,Expense,Daily Needs,Debit Card,681.85,Bengaluru,Completed
+297,2025-07-27,C1039,Bills,Expense,Electricity Board,UPI,1594.44,Hyderabad,Completed
+298,2025-07-13,C1022,Healthcare,Refund,Care Pharmacy,Net Banking,581.58,Bengaluru,Completed
+299,2025-06-19,C1068,Healthcare,Expense,Care Pharmacy,Credit Card,6034.13,Pune,Completed
+300,2025-12-21,C1006,Freelance,Income,Design Studio,Debit Card,13461.01,Nagpur,Completed
+301,2025-01-17,C1027,Food,Refund,Cafe Corner,Net Banking,2163.46,Hyderabad,Completed
+302,2025-10-16,C1115,Shopping,Expense,Electro World,Net Banking,7594.53,Delhi,Completed
+303,2025-12-19,C1007,Education,Expense,Learning Hub,Net Banking,6259.12,Pune,Completed
+304,2025-06-24,C1100,Healthcare,Expense,City Clinic,UPI,4374.28,Delhi,Completed
+305,2025-08-19,C1056,Bills,Expense,Internet Services,Cash,2101.15,Delhi,Completed
+306,2025-11-13,C1035,Shopping,Expense,Style Point,Net Banking,2594.82,Delhi,Completed
+307,2025-03-20,C1001,Education,Expense,Book Store,Net Banking,4141.8,Mumbai,Completed
+308,2025-02-22,C1072,Food,Expense,Food Hub,UPI,671.63,Hyderabad,Completed
+309,2025-10-11,C1050,Food,Expense,Fresh Mart,Debit Card,1595.6,Bengaluru,Completed
+310,2025-02-13,C1032,Education,Expense,Online Academy,Cash,6934.67,Pune,Completed
+311,2025-03-28,C1009,Food,Expense,Cafe Corner,Net Banking,927.55,Mumbai,Completed
+312,2025-09-05,C1032,Salary,Income,Northstar Services,Net Banking,46667.49,Nagpur,Completed
+313,2025-08-23,C1043,Food,Expense,Food Hub,Debit Card,935.48,Bengaluru,Completed
+314,2025-11-30,C1042,Investment,Income,Savings Plan,Credit Card,4947.61,Bengaluru,Completed
+315,2025-07-23,C1089,Investment,Income,Savings Plan,Net Banking,9452.0,Nagpur,Completed
+316,2025-06-16,C1015,Travel,Expense,Metro Travel,Cash,4954.02,Nagpur,Completed
+317,2025-10-09,C1027,Food,Expense,Food Hub,Debit Card,1886.23,Delhi,Completed
+318,2025-07-29,C1033,Entertainment,Expense,Game Zone,Credit Card,659.29,Delhi,Completed
+319,2025-07-13,C1052,Food,Expense,Food Hub,Cash,2479.08,Hyderabad,Completed
+320,2025-07-04,C1118,Education,Expense,Learning Hub,UPI,9841.42,Pune,Completed
+321,2025-07-01,C1083,Food,Expense,Food Hub,Debit Card,1628.53,Bengaluru,Completed
+322,2025-02-20,C1075,Shopping,Expense,Style Point,Net Banking,4840.75,Mumbai,Completed
+323,2025-12-14,C1004,Healthcare,Expense,City Clinic,UPI,3603.17,Mumbai,Completed
+324,2025-02-13,C1040,Food,Expense,Daily Needs,Net Banking,2366.52,Pune,Completed
+325,2025-06-28,C1041,Bills,Expense,Electricity Board,Debit Card,2471.75,Hyderabad,Completed
+326,2025-02-28,C1103,Food,Expense,Cafe Corner,Credit Card,1021.93,Nagpur,Completed
+327,2025-03-23,C1103,Travel,Expense,Fuel Station,Credit Card,2730.31,Pune,Completed
+328,2025-08-10,C1058,Travel,Expense,Fuel Station,Net Banking,4503.11,Hyderabad,Completed
+329,2025-04-16,C1074,Shopping,Expense,Urban Store,Cash,6481.96,Pune,Completed
+330,2025-04-11,C1068,Bills,Expense,Mobile Network,Cash,1680.59,Bengaluru,Completed
+331,2025-10-28,C1023,Food,Expense,Daily Needs,Cash,1041.97,Nagpur,Completed
+332,2025-03-10,C1048,Shopping,Expense,Style Point,Cash,2527.87,Bengaluru,Completed
+333,2025-03-12,C1069,Healthcare,Expense,Health Plus,Credit Card,3076.66,Nagpur,Completed
+334,2025-05-28,C1007,Food,Expense,Daily Needs,UPI,957.81,Bengaluru,Completed
+335,2025-07-16,C1064,Investment,Income,Equity Broker,Net Banking,15657.7,Bengaluru,Completed
+336,2025-08-16,C1098,Bills,Expense,Internet Services,Debit Card,872.02,Hyderabad,Completed
+337,2025-10-03,C1099,Shopping,Expense,Home Needs,Cash,7136.29,Nagpur,Completed
+338,2025-02-28,C1070,Shopping,Expense,Urban Store,Net Banking,5116.4,Nagpur,Completed
+339,2025-08-06,C1039,Food,Expense,Fresh Mart,Net Banking,2117.66,Mumbai,Completed
+340,2025-02-14,C1031,Bills,Expense,Internet Services,Cash,4972.81,Delhi,Completed
+341,2025-12-30,C1101,Entertainment,Expense,Movie House,Credit Card,1612.95,Hyderabad,Completed
+342,2025-09-30,C1091,Shopping,Expense,Electro World,Debit Card,5079.53,Nagpur,Completed
+343,2025-09-21,C1013,Investment,Income,Mutual Fund,Net Banking,20699.68,Hyderabad,Failed
+344,2025-12-02,C1092,Food,Expense,Daily Needs,Credit Card,2198.68,Delhi,Completed
+345,2025-03-14,C1058,Healthcare,Expense,Care Pharmacy,UPI,2027.28,Bengaluru,Completed
+346,2025-05-23,C1063,Education,Expense,Book Store,Cash,10589.15,Hyderabad,Completed
+347,2025-02-17,C1046,Education,Expense,Learning Hub,Cash,5772.17,Bengaluru,Completed
+348,2025-08-08,C1042,Salary,Income,XYZ Solutions,Debit Card,54682.9,Nagpur,Completed
+349,2025-10-17,C1115,Salary,Income,Northstar Services,UPI,72298.22,Hyderabad,Completed
+350,2025-08-24,C1059,Food,Expense,Fresh Mart,Net Banking,2341.22,Pune,Failed
+351,2025-03-09,C1112,Freelance,Income,DataWorks,UPI,9641.04,Delhi,Completed
+352,2025-02-12,C1051,Travel,Expense,Rail Connect,Credit Card,5451.66,Bengaluru,Completed
+353,2025-12-27,C1076,Food,Expense,Cafe Corner,Cash,730.2,Delhi,Completed
+354,2025-01-05,C1055,Education,Expense,Online Academy,Credit Card,9896.75,Bengaluru,Completed
+355,2025-07-16,C1048,Food,Expense,Daily Needs,Credit Card,2063.4,Bengaluru,Completed
+356,2025-03-10,C1073,Entertainment,Expense,Movie House,Cash,2434.55,Delhi,Completed
+357,2025-06-29,C1053,Education,Expense,Online Academy,Net Banking,7722.92,Pune,Completed
+358,2025-02-21,C1045,Food,Expense,Food Hub,Debit Card,527.1,Pune,Completed
+359,2025-11-27,C1078,Food,Expense,Daily Needs,UPI,1495.14,Delhi,Completed
+360,2025-04-16,C1038,Bills,Expense,Electricity Board,Credit Card,2792.85,Bengaluru,Completed
+361,2025-05-04,C1002,Bills,Expense,Mobile Network,Debit Card,3172.68,Pune,Completed
+362,2025-10-19,C1061,Travel,Expense,City Cabs,UPI,3414.23,Nagpur,Completed
+363,2025-05-15,C1051,Shopping,Expense,Electro World,Cash,8341.92,Bengaluru,Completed
+364,2025-07-25,C1036,Food,Expense,Fresh Mart,Debit Card,1457.27,Hyderabad,Completed
+365,2025-04-15,C1042,Investment,Income,Equity Broker,Cash,5505.94,Delhi,Completed
+366,2025-11-29,C1094,Entertainment,Expense,Movie House,UPI,418.18,Pune,Completed
+367,2025-08-11,C1086,Food,Expense,Cafe Corner,UPI,1627.67,Hyderabad,Completed
+368,2025-12-26,C1067,Food,Expense,Daily Needs,Credit Card,1366.93,Mumbai,Completed
+369,2025-05-18,C1043,Education,Expense,Book Store,Debit Card,1857.65,Nagpur,Completed
+370,2025-12-31,C1064,Investment,Income,Equity Broker,Cash,19198.45,Mumbai,Completed
+371,2025-10-18,C1115,Food,Expense,Fresh Mart,Credit Card,603.95,Delhi,Completed
+372,2025-01-23,C1006,Salary,Income,XYZ Solutions,Debit Card,25737.28,Bengaluru,Completed
+373,2025-04-02,C1071,Freelance,Income,Consulting Desk,Net Banking,21864.67,Pune,Completed
+374,2025-08-02,C1106,Freelance,Income,Design Studio,Cash,10038.57,Mumbai,Completed
+375,2025-12-11,C1103,Freelance,Income,Consulting Desk,UPI,6945.58,Bengaluru,Completed
+376,2025-08-27,C1040,Freelance,Income,DataWorks,UPI,20017.6,Nagpur,Completed
+377,2025-07-08,C1080,Shopping,Expense,Style Point,Net Banking,5292.36,Mumbai,Completed
+378,2025-09-10,C1094,Investment,Income,Savings Plan,Credit Card,23500.69,Pune,Completed
+379,2025-07-29,C1089,Food,Expense,Fresh Mart,Debit Card,1468.48,Hyderabad,Completed
+380,2025-07-12,C1014,Salary,Income,ABC Technologies,Cash,68632.9,Pune,Completed
+381,2025-01-31,C1036,Investment,Income,Mutual Fund,UPI,5128.83,Pune,Completed
+382,2025-09-24,C1096,Travel,Expense,City Cabs,Cash,5404.79,Hyderabad,Completed
+383,2025-11-23,C1073,Salary,Income,ABC Technologies,Net Banking,29489.83,Delhi,Pending
+384,2025-05-02,C1051,Shopping,Expense,Electro World,Debit Card,7732.77,Bengaluru,Completed
+385,2025-02-08,C1099,Investment,Income,Savings Plan,UPI,4947.24,Pune,Completed
+386,2025-08-19,C1099,Bills,Expense,Internet Services,Net Banking,2329.31,Mumbai,Completed
+387,2025-03-03,C1091,Food,Expense,Fresh Mart,Credit Card,2067.09,Mumbai,Completed
+388,2025-12-31,C1087,Shopping,Expense,Electro World,Debit Card,3523.81,Pune,Completed
+389,2025-07-27,C1071,Salary,Income,ABC Technologies,UPI,58357.23,Bengaluru,Completed
+390,2025-03-13,C1029,Food,Expense,Cafe Corner,Credit Card,388.76,Bengaluru,Completed
+391,2025-11-19,C1076,Freelance,Income,DataWorks,UPI,4848.87,Hyderabad,Failed
+392,2025-04-12,C1017,Freelance,Income,Design Studio,Debit Card,12755.49,Hyderabad,Completed
+393,2025-08-25,C1093,Food,Expense,Food Hub,Net Banking,2329.3,Hyderabad,Completed
+394,2025-08-07,C1036,Food,Expense,Food Hub,Credit Card,733.11,Hyderabad,Completed
+395,2025-11-12,C1071,Shopping,Expense,Home Needs,UPI,3008.39,Hyderabad,Completed
+396,2025-03-12,C1032,Travel,Expense,City Cabs,Net Banking,3963.12,Delhi,Completed
+397,2025-10-06,C1073,Salary,Income,Northstar Services,Debit Card,45642.05,Bengaluru,Completed
+398,2025-01-14,C1100,Shopping,Expense,Electro World,UPI,2361.67,Bengaluru,Completed
+399,2025-10-27,C1013,Investment,Income,Mutual Fund,Credit Card,29245.42,Mumbai,Completed
+400,2025-01-29,C1074,Salary,Income,XYZ Solutions,Debit Card,81868.15,Pune,Completed
+401,2025-10-31,C1076,Shopping,Expense,Urban Store,Debit Card,6773.89,Nagpur,Completed
+402,2025-10-16,C1104,Investment,Income,Equity Broker,Cash,25264.21,Mumbai,Completed
+403,2025-01-20,C1068,Food,Expense,Food Hub,UPI,773.4,Mumbai,Completed
+404,2025-04-14,C1023,Salary,Income,XYZ Solutions,UPI,45445.54,Hyderabad,Completed
+405,2025-12-27,C1109,Freelance,Income,Consulting Desk,Debit Card,20036.06,Hyderabad,Completed
+406,2025-12-06,C1018,Travel,Expense,Metro Travel,Net Banking,875.88,Delhi,Pending
+407,2025-11-29,C1114,Shopping,Expense,Electro World,Credit Card,6511.05,Delhi,Completed
+408,2025-03-31,C1023,Travel,Expense,City Cabs,Cash,4483.77,Bengaluru,Completed
+409,2025-10-18,C1079,Food,Expense,Cafe Corner,Cash,1605.37,Hyderabad,Completed
+410,2025-03-14,C1041,Travel,Expense,Metro Travel,UPI,743.5,Delhi,Completed
+411,2025-06-21,C1009,Bills,Expense,Mobile Network,Debit Card,1693.46,Hyderabad,Completed
+412,2025-01-25,C1114,Travel,Expense,Fuel Station,Net Banking,4475.73,Bengaluru,Completed
+413,2025-07-12,C1084,Food,Expense,Cafe Corner,Credit Card,1328.85,Bengaluru,Completed
+414,2025-01-18,C1010,Shopping,Expense,Electro World,Credit Card,3209.09,Bengaluru,Completed
+415,2025-02-08,C1077,Bills,Expense,Water Utility,UPI,4541.56,Bengaluru,Pending
+416,2025-03-26,C1043,Healthcare,Expense,Care Pharmacy,Credit Card,3152.56,Bengaluru,Completed
+417,2025-10-04,C1007,Shopping,Expense,Home Needs,Cash,2892.95,Nagpur,Completed
+418,2025-03-20,C1106,Food,Expense,Food Hub,Credit Card,258.59,Hyderabad,Completed
+419,2025-03-29,C1015,Entertainment,Expense,Music Stream,Net Banking,3424.29,Bengaluru,Completed
+420,2025-12-05,C1048,Shopping,Expense,Home Needs,Debit Card,5955.86,Pune,Completed
+421,2025-05-15,C1073,Bills,Expense,Electricity Board,Credit Card,1685.3,Delhi,Completed
+422,2025-02-13,C1097,Entertainment,Expense,Game Zone,Credit Card,2866.99,Nagpur,Completed
+423,2025-07-18,C1069,Salary,Income,Northstar Services,Net Banking,50117.92,Nagpur,Completed
+424,2025-09-01,C1005,Shopping,Expense,Style Point,UPI,3855.84,Bengaluru,Completed
+425,2025-03-27,C1017,Investment,Income,Mutual Fund,Net Banking,24445.36,Hyderabad,Failed
+426,2025-08-11,C1077,Shopping,Expense,Electro World,Debit Card,7491.79,Delhi,Completed
+427,2025-02-04,C1110,Food,Expense,Daily Needs,Cash,1501.82,Bengaluru,Completed
+428,2025-01-07,C1067,Salary,Income,XYZ Solutions,UPI,62383.48,Bengaluru,Completed
+429,2025-10-18,C1119,Healthcare,Expense,Care Pharmacy,Cash,5356.97,Hyderabad,Completed
+430,2025-10-02,C1034,Freelance,Income,DataWorks,Net Banking,22313.66,Nagpur,Completed
+431,2025-01-20,C1088,Food,Expense,Food Hub,UPI,1156.69,Bengaluru,Completed
+432,2025-06-19,C1035,Education,Expense,Book Store,UPI,1066.85,Mumbai,Completed
+433,2025-06-05,C1088,Shopping,Expense,Urban Store,Credit Card,7664.2,Pune,Completed
+434,2025-08-15,C1094,Salary,Income,XYZ Solutions,Cash,44252.1,Delhi,Completed
+435,2025-08-15,C1098,Shopping,Expense,Electro World,UPI,7503.74,Nagpur,Completed
+436,2025-02-03,C1109,Shopping,Expense,Urban Store,Credit Card,4807.76,Pune,Completed
+437,2025-04-13,C1059,Salary,Income,ABC Technologies,Debit Card,39969.42,Delhi,Completed
+438,2025-07-08,C1082,Salary,Income,ABC Technologies,UPI,55307.58,Pune,Completed
+439,2025-11-01,C1071,Bills,Expense,Mobile Network,Debit Card,4822.34,Pune,Completed
+440,2025-05-13,C1037,Salary,Income,ABC Technologies,Net Banking,66331.03,Hyderabad,Completed
+441,2025-10-20,C1029,Salary,Income,Northstar Services,Credit Card,37859.12,Delhi,Completed
+442,2025-11-30,C1099,Travel,Expense,City Cabs,Net Banking,414.3,Pune,Completed
+443,2025-11-04,C1078,Salary,Income,XYZ Solutions,Debit Card,38426.2,Bengaluru,Completed
+444,2025-06-28,C1067,Bills,Expense,Water Utility,Cash,1481.94,Hyderabad,Completed
+445,2025-12-06,C1072,Investment,Income,Savings Plan,Cash,25341.97,Nagpur,Completed
+446,2025-12-17,C1082,Food,Expense,Daily Needs,Debit Card,393.63,Mumbai,Completed
+447,2025-11-30,C1116,Shopping,Expense,Urban Store,Cash,1774.4,Bengaluru,Completed
+448,2025-12-15,C1038,Food,Expense,Daily Needs,Net Banking,307.27,Bengaluru,Completed
+449,2025-01-19,C1044,Healthcare,Expense,Health Plus,Credit Card,6964.33,Delhi,Completed
+450,2025-09-01,C1065,Freelance,Income,DataWorks,Credit Card,17781.11,Delhi,Completed
+451,2025-04-03,C1093,Shopping,Expense,Style Point,Debit Card,4501.64,Delhi,Completed
+452,2025-07-01,C1114,Shopping,Expense,Electro World,Debit Card,7907.17,Mumbai,Completed
+453,2025-08-26,C1111,Salary,Income,Northstar Services,Cash,53232.19,Nagpur,Pending
+454,2025-02-06,C1088,Bills,Expense,Water Utility,Cash,1375.45,Mumbai,Completed
+455,2025-03-19,C1073,Food,Expense,Food Hub,Credit Card,700.67,Mumbai,Completed
+456,2025-04-03,C1081,Salary,Income,ABC Technologies,Debit Card,54254.85,Delhi,Completed
+457,2025-08-20,C1098,Shopping,Expense,Style Point,Net Banking,6970.14,Hyderabad,Completed
+458,2025-08-11,C1050,Entertainment,Expense,Movie House,UPI,1531.2,Nagpur,Completed
+459,2025-07-11,C1097,Investment,Income,Savings Plan,Credit Card,26868.19,Hyderabad,Completed
+460,2025-11-17,C1040,Education,Expense,Learning Hub,UPI,3102.06,Bengaluru,Completed
+461,2025-06-06,C1038,Food,Expense,Food Hub,Cash,2103.65,Nagpur,Completed
+462,2025-08-11,C1044,Freelance,Income,DataWorks,Debit Card,24900.39,Pune,Completed
+463,2025-07-26,C1028,Food,Expense,Fresh Mart,Cash,754.72,Nagpur,Completed
+464,2025-07-07,C1082,Education,Expense,Book Store,Cash,9609.46,Nagpur,Completed
+465,2025-01-25,C1089,Entertainment,Refund,Movie House,Net Banking,2356.77,Bengaluru,Completed
+466,2025-10-08,C1088,Shopping,Expense,Urban Store,Debit Card,6465.88,Bengaluru,Completed
+467,2025-12-06,C1054,Bills,Expense,Electricity Board,Cash,3302.59,Delhi,Completed
+468,2025-05-25,C1026,Food,Expense,Daily Needs,Cash,489.09,Pune,Completed
+469,2025-07-29,C1027,Shopping,Expense,Home Needs,Debit Card,834.95,Pune,Completed
+470,2025-12-10,C1064,Food,Expense,Cafe Corner,UPI,498.47,Nagpur,Completed
+471,2025-02-21,C1059,Freelance,Income,DataWorks,Debit Card,17175.41,Bengaluru,Completed
+472,2025-03-31,C1047,Freelance,Income,Consulting Desk,Debit Card,21749.47,Bengaluru,Completed
+473,2025-02-18,C1002,Salary,Income,ABC Technologies,Credit Card,78417.52,Mumbai,Completed
+474,2025-08-13,C1094,Investment,Income,Mutual Fund,Debit Card,8780.97,Mumbai,Completed
+475,2025-07-25,C1089,Travel,Expense,Fuel Station,Net Banking,2902.27,Delhi,Completed
+476,2025-03-27,C1109,Food,Expense,Cafe Corner,UPI,1816.38,Bengaluru,Completed
+477,2025-09-05,C1024,Salary,Income,Northstar Services,Net Banking,65703.59,Mumbai,Completed
+478,2025-12-17,C1115,Freelance,Income,Design Studio,Net Banking,19000.13,Bengaluru,Completed
+479,2025-07-30,C1002,Bills,Expense,Internet Services,Debit Card,785.01,Nagpur,Completed
+480,2025-12-25,C1062,Entertainment,Expense,Music Stream,Net Banking,1628.4,Pune,Completed
+481,2025-10-13,C1002,Freelance,Income,Consulting Desk,Credit Card,16484.11,Nagpur,Completed
+482,2025-09-11,C1063,Freelance,Income,DataWorks,Credit Card,4647.04,Mumbai,Pending
+483,2025-01-26,C1105,Bills,Expense,Internet Services,UPI,2977.23,Bengaluru,Completed
+484,2025-10-21,C1016,Bills,Expense,Water Utility,UPI,4354.65,Hyderabad,Completed
+485,2025-01-19,C1078,Healthcare,Expense,Health Plus,Debit Card,201.15,Nagpur,Completed
+486,2025-12-02,C1007,Entertainment,Expense,Movie House,Net Banking,3336.17,Mumbai,Completed
+487,2025-11-14,C1058,Healthcare,Expense,Care Pharmacy,UPI,5073.27,Delhi,Completed
+488,2025-06-24,C1071,Travel,Expense,Rail Connect,UPI,3911.87,Hyderabad,Completed
+489,2025-09-10,C1014,Food,Expense,Daily Needs,Cash,1862.93,Pune,Completed
+490,2025-07-21,C1044,Shopping,Expense,Urban Store,Net Banking,7508.71,Hyderabad,Completed
+491,2025-12-11,C1085,Healthcare,Expense,Health Plus,Cash,5450.59,Pune,Pending
+492,2025-01-03,C1108,Bills,Expense,Water Utility,Cash,718.57,Pune,Completed
+493,2025-03-30,C1077,Education,Expense,Online Academy,Debit Card,1976.39,Nagpur,Completed
+494,2025-08-03,C1098,Investment,Income,Mutual Fund,Debit Card,27561.4,Bengaluru,Pending
+495,2025-05-31,C1090,Bills,Expense,Mobile Network,Cash,1100.17,Mumbai,Completed
+496,2025-10-11,C1038,Entertainment,Expense,Game Zone,Debit Card,862.93,Delhi,Completed
+497,2025-12-30,C1089,Entertainment,Expense,Game Zone,Debit Card,3362.48,Delhi,Completed
+498,2025-06-30,C1091,Healthcare,Expense,City Clinic,Cash,4163.08,Mumbai,Completed
+499,2025-08-05,C1004,Salary,Income,XYZ Solutions,Credit Card,56363.8,Hyderabad,Completed
+500,2025-04-13,C1088,Shopping,Expense,Electro World,Credit Card,7177.02,Hyderabad,Completed
+501,2025-06-01,C1058,Shopping,Expense,Urban Store,Cash,5099.96,Delhi,Completed
+502,2025-04-25,C1031,Salary,Income,Northstar Services,Debit Card,58676.23,Delhi,Completed
+503,2025-07-15,C1041,Travel,Expense,City Cabs,UPI,5753.2,Delhi,Completed
+504,2025-11-14,C1057,Freelance,Income,Design Studio,Debit Card,21929.78,Nagpur,Completed
+505,2025-11-05,C1058,Shopping,Expense,Style Point,UPI,6661.77,Pune,Pending
+506,2025-09-21,C1034,Food,Expense,Cafe Corner,Credit Card,341.43,Nagpur,Completed
+507,2025-01-03,C1020,Travel,Expense,Rail Connect,Cash,4345.23,Hyderabad,Completed
+508,2025-11-17,C1074,Entertainment,Expense,Game Zone,Debit Card,2384.24,Hyderabad,Completed
+509,2025-06-12,C1101,Bills,Expense,Internet Services,Net Banking,4806.44,Nagpur,Completed
+510,2025-02-17,C1043,Travel,Expense,Rail Connect,Debit Card,5335.36,Pune,Pending
+511,2025-11-13,C1084,Bills,Expense,Electricity Board,UPI,4984.84,Delhi,Completed
+512,2025-05-04,C1080,Freelance,Income,Design Studio,UPI,16501.42,Delhi,Completed
+513,2025-07-15,C1050,Freelance,Income,DataWorks,Cash,23789.73,Delhi,Completed
+514,2025-09-22,C1103,Salary,Income,Northstar Services,Net Banking,47497.48,Bengaluru,Completed
+515,2025-11-30,C1022,Shopping,Expense,Urban Store,UPI,4868.1,Pune,Completed
+516,2025-04-20,C1014,Freelance,Income,Design Studio,Cash,12332.61,Delhi,Completed
+517,2025-08-11,C1020,Entertainment,Expense,Movie House,Net Banking,3301.18,Delhi,Completed
+518,2025-02-14,C1010,Food,Expense,Cafe Corner,Debit Card,650.48,Bengaluru,Completed
+519,2025-11-19,C1016,Travel,Expense,City Cabs,Cash,2103.5,Hyderabad,Completed
+520,2025-10-27,C1065,Food,Expense,Fresh Mart,Debit Card,2158.57,Delhi,Completed
+521,2025-02-14,C1106,Shopping,Expense,Urban Store,Net Banking,8376.87,Pune,Completed
+522,2025-03-11,C1109,Salary,Income,Northstar Services,Debit Card,72806.23,Delhi,Completed
+523,2025-12-13,C1111,Freelance,Income,Consulting Desk,Debit Card,24238.04,Hyderabad,Completed
+524,2025-10-12,C1051,Food,Expense,Fresh Mart,Debit Card,343.99,Pune,Completed
+525,2025-06-26,C1019,Shopping,Expense,Style Point,Credit Card,8197.84,Pune,Completed
+526,2025-05-10,C1110,Shopping,Expense,Urban Store,Cash,2041.54,Bengaluru,Completed
+527,2025-02-07,C1093,Shopping,Expense,Home Needs,Debit Card,1072.58,Mumbai,Completed
+528,2025-12-02,C1025,Shopping,Expense,Electro World,Net Banking,2923.67,Bengaluru,Completed
+529,2025-12-04,C1047,Shopping,Expense,Electro World,Net Banking,5465.44,Pune,Completed
+530,2025-05-07,C1083,Salary,Income,XYZ Solutions,Debit Card,67731.95,Mumbai,Completed
+531,2025-06-19,C1046,Freelance,Income,DataWorks,Net Banking,13182.66,Nagpur,Completed
+532,2025-11-27,C1018,Healthcare,Expense,Health Plus,Credit Card,5924.19,Mumbai,Completed
+533,2025-11-17,C1065,Food,Refund,Fresh Mart,Cash,419.65,Nagpur,Completed
+534,2025-10-30,C1115,Shopping,Expense,Home Needs,Credit Card,811.58,Mumbai,Completed
+535,2025-10-29,C1066,Education,Expense,Learning Hub,Net Banking,3846.49,Mumbai,Completed
+536,2025-12-06,C1088,Shopping,Expense,Style Point,Cash,8694.0,Pune,Completed
+537,2025-04-02,C1019,Healthcare,Expense,Health Plus,Net Banking,4047.53,Mumbai,Completed
+538,2025-09-07,C1086,Shopping,Expense,Style Point,Cash,2747.04,Mumbai,Completed
+539,2025-08-21,C1084,Freelance,Income,DataWorks,UPI,3877.9,Delhi,Pending
+540,2025-11-21,C1034,Salary,Income,Northstar Services,Cash,75092.34,Nagpur,Completed
+541,2025-12-01,C1010,Travel,Expense,Rail Connect,Net Banking,3649.77,Pune,Completed
+542,2025-06-30,C1102,Salary,Income,XYZ Solutions,Cash,45701.94,Hyderabad,Completed
+543,2025-03-13,C1036,Bills,Expense,Internet Services,Credit Card,1534.96,Pune,Completed
+544,2025-11-05,C1104,Education,Expense,Book Store,UPI,1860.8,Bengaluru,Completed
+545,2025-09-03,C1003,Shopping,Expense,Style Point,UPI,1870.59,Pune,Completed
+546,2025-03-24,C1019,Food,Expense,Fresh Mart,Credit Card,1403.45,Mumbai,Completed
+547,2025-09-22,C1073,Investment,Income,Savings Plan,UPI,18381.37,Delhi,Completed
+548,2025-05-26,C1078,Investment,Income,Equity Broker,Net Banking,7281.21,Pune,Completed
+549,2025-07-30,C1024,Healthcare,Expense,Health Plus,Cash,5603.39,Mumbai,Completed
+550,2025-12-18,C1030,Travel,Expense,Fuel Station,Net Banking,2884.78,Pune,Completed
+551,2025-04-14,C1106,Bills,Expense,Internet Services,Cash,4592.03,Hyderabad,Completed
+552,2025-11-11,C1097,Healthcare,Expense,Care Pharmacy,UPI,6168.72,Bengaluru,Completed
+553,2025-11-05,C1087,Bills,Expense,Water Utility,Cash,505.4,Bengaluru,Completed
+554,2025-01-23,C1062,Education,Expense,Book Store,Debit Card,5433.0,Nagpur,Completed
+555,2025-12-23,C1099,Healthcare,Expense,Care Pharmacy,UPI,3093.33,Mumbai,Completed
+556,2025-10-06,C1102,Travel,Expense,City Cabs,Cash,1377.42,Nagpur,Completed
+557,2025-01-04,C1053,Travel,Expense,Rail Connect,UPI,1470.89,Pune,Completed
+558,2025-10-27,C1047,Shopping,Expense,Electro World,Net Banking,7767.3,Pune,Completed
+559,2025-10-13,C1033,Bills,Expense,Mobile Network,Cash,2165.96,Mumbai,Completed
+560,2025-07-23,C1096,Education,Expense,Learning Hub,Net Banking,10332.49,Delhi,Pending
+561,2025-02-21,C1071,Shopping,Expense,Urban Store,Credit Card,3904.77,Bengaluru,Pending
+562,2025-01-03,C1061,Salary,Income,Northstar Services,Net Banking,74395.33,Hyderabad,Completed
+563,2025-04-24,C1120,Travel,Expense,Fuel Station,Cash,3771.46,Delhi,Completed
+564,2025-12-31,C1100,Investment,Income,Mutual Fund,Net Banking,2666.43,Bengaluru,Completed
+565,2025-12-03,C1025,Freelance,Income,Design Studio,Cash,14399.37,Nagpur,Completed
+566,2025-04-29,C1084,Entertainment,Expense,Movie House,Credit Card,2424.28,Hyderabad,Failed
+567,2025-07-24,C1067,Travel,Expense,City Cabs,UPI,2552.32,Hyderabad,Completed
+568,2025-10-14,C1105,Freelance,Income,DataWorks,Credit Card,10658.1,Nagpur,Pending
+569,2025-08-21,C1034,Freelance,Income,Design Studio,Net Banking,15647.95,Nagpur,Completed
+570,2025-02-07,C1066,Bills,Expense,Mobile Network,Cash,2029.85,Nagpur,Completed
+571,2025-08-15,C1099,Investment,Income,Mutual Fund,Debit Card,17331.89,Bengaluru,Completed
+572,2025-10-28,C1034,Freelance,Income,Design Studio,Net Banking,13603.34,Delhi,Completed
+573,2025-04-23,C1046,Entertainment,Expense,Game Zone,Cash,958.77,Hyderabad,Completed
+574,2025-05-15,C1106,Shopping,Expense,Electro World,UPI,1290.58,Nagpur,Completed
+575,2025-09-01,C1024,Shopping,Expense,Style Point,Net Banking,2357.81,Delhi,Completed
+576,2025-05-04,C1026,Freelance,Income,Design Studio,Cash,7549.13,Mumbai,Completed
+577,2025-02-24,C1064,Food,Expense,Fresh Mart,Cash,426.6,Hyderabad,Completed
+578,2025-07-10,C1115,Entertainment,Expense,Game Zone,Debit Card,1824.72,Bengaluru,Completed
+579,2025-09-19,C1007,Shopping,Expense,Home Needs,Net Banking,2387.79,Nagpur,Completed
+580,2025-06-27,C1016,Travel,Expense,Fuel Station,Debit Card,4212.13,Delhi,Completed
+581,2025-12-12,C1079,Shopping,Expense,Electro World,Credit Card,5438.57,Nagpur,Completed
+582,2025-05-18,C1064,Bills,Expense,Water Utility,Credit Card,3258.88,Bengaluru,Completed
+583,2025-07-10,C1074,Travel,Expense,Metro Travel,Cash,2583.38,Delhi,Completed
+584,2025-02-21,C1110,Education,Expense,Book Store,Credit Card,9747.01,Pune,Completed
+585,2025-03-18,C1018,Bills,Expense,Mobile Network,Net Banking,543.84,Mumbai,Completed
+586,2025-10-18,C1028,Food,Expense,Daily Needs,Net Banking,472.69,Delhi,Completed
+587,2025-06-21,C1104,Shopping,Expense,Electro World,Debit Card,3562.61,Hyderabad,Completed
+588,2025-06-29,C1026,Freelance,Income,Consulting Desk,Cash,24188.56,Delhi,Completed
+589,2025-03-31,C1042,Investment,Income,Savings Plan,Cash,9253.65,Bengaluru,Completed
+590,2025-08-17,C1037,Freelance,Income,DataWorks,Credit Card,11383.56,Pune,Completed
+591,2025-06-22,C1117,Travel,Expense,City Cabs,UPI,3790.17,Pune,Completed
+592,2025-06-10,C1083,Shopping,Expense,Home Needs,Debit Card,2976.53,Bengaluru,Completed
+593,2025-07-05,C1058,Salary,Income,XYZ Solutions,Credit Card,56256.14,Pune,Completed
+594,2025-03-06,C1090,Education,Expense,Online Academy,UPI,8113.26,Pune,Completed
+595,2025-02-22,C1007,Food,Expense,Fresh Mart,Net Banking,2357.79,Nagpur,Completed
+596,2025-02-12,C1120,Food,Expense,Food Hub,Debit Card,1640.73,Pune,Completed
+597,2025-05-26,C1022,Bills,Expense,Electricity Board,UPI,1068.85,Delhi,Completed
+598,2025-06-16,C1112,Freelance,Income,Consulting Desk,Debit Card,13278.26,Nagpur,Completed
+599,2025-12-24,C1096,Bills,Expense,Water Utility,Cash,3158.74,Delhi,Completed
+600,2025-06-08,C1030,Freelance,Income,Design Studio,Net Banking,13596.34,Mumbai,Completed
+601,2025-05-14,C1098,Food,Expense,Cafe Corner,Debit Card,273.75,Mumbai,Completed
+602,2025-01-05,C1039,Entertainment,Expense,Movie House,Net Banking,1823.37,Mumbai,Completed
+603,2025-01-04,C1056,Bills,Expense,Water Utility,Credit Card,1348.57,Pune,Completed
+604,2025-11-27,C1055,Travel,Expense,Metro Travel,Cash,2456.64,Nagpur,Completed
+605,2025-12-17,C1035,Shopping,Expense,Home Needs,Credit Card,6011.88,Hyderabad,Completed
+606,2025-05-29,C1090,Food,Expense,Food Hub,Credit Card,1274.52,Mumbai,Completed
+607,2025-01-26,C1014,Investment,Income,Equity Broker,Debit Card,1641.8,Pune,Completed
+608,2025-01-05,C1044,Shopping,Expense,Home Needs,Debit Card,1780.81,Bengaluru,Failed
+609,2025-08-26,C1097,Education,Expense,Learning Hub,UPI,864.98,Mumbai,Completed
+610,2025-02-06,C1033,Bills,Expense,Water Utility,UPI,1317.22,Hyderabad,Pending
+611,2025-05-08,C1005,Travel,Expense,Metro Travel,Net Banking,5857.34,Delhi,Completed
+612,2025-09-24,C1040,Entertainment,Expense,Music Stream,Credit Card,887.88,Delhi,Completed
+613,2025-10-09,C1026,Bills,Expense,Mobile Network,UPI,1639.91,Delhi,Completed
+614,2025-02-27,C1102,Shopping,Refund,Electro World,Cash,4190.37,Hyderabad,Completed
+615,2025-05-05,C1061,Food,Expense,Cafe Corner,Debit Card,344.49,Hyderabad,Completed
+616,2025-09-13,C1098,Food,Expense,Fresh Mart,UPI,1641.95,Mumbai,Completed
+617,2025-12-26,C1041,Bills,Expense,Mobile Network,Net Banking,983.26,Delhi,Completed
+618,2025-12-19,C1006,Travel,Expense,Fuel Station,Net Banking,4429.08,Nagpur,Completed
+619,2025-12-23,C1042,Bills,Expense,Water Utility,Debit Card,3050.16,Nagpur,Completed
+620,2025-10-11,C1105,Food,Expense,Daily Needs,Cash,1445.06,Mumbai,Completed
+621,2025-11-23,C1080,Bills,Expense,Mobile Network,Cash,3801.46,Pune,Completed
+622,2025-02-02,C1068,Entertainment,Expense,Game Zone,Net Banking,1978.56,Nagpur,Completed
+623,2025-05-25,C1067,Shopping,Expense,Urban Store,UPI,5947.68,Pune,Completed
+624,2025-01-17,C1074,Shopping,Expense,Home Needs,Net Banking,4625.65,Nagpur,Completed
+625,2025-10-30,C1010,Shopping,Expense,Urban Store,Credit Card,3614.01,Delhi,Completed
+626,2025-02-10,C1096,Bills,Expense,Water Utility,Debit Card,3375.13,Delhi,Completed
+627,2025-11-12,C1039,Shopping,Expense,Urban Store,Credit Card,845.55,Nagpur,Completed
+628,2025-04-29,C1032,Bills,Expense,Internet Services,Cash,1352.57,Delhi,Completed
+629,2025-02-24,C1087,Salary,Income,XYZ Solutions,Net Banking,59593.82,Hyderabad,Completed
+630,2025-04-03,C1069,Bills,Expense,Water Utility,Debit Card,2771.12,Mumbai,Completed
+631,2025-06-16,C1082,Salary,Income,XYZ Solutions,Debit Card,49740.6,Nagpur,Completed
+632,2025-10-07,C1033,Shopping,Expense,Electro World,Net Banking,7008.52,Bengaluru,Pending
+633,2025-01-01,C1067,Education,Expense,Learning Hub,Debit Card,11804.0,Hyderabad,Completed
+634,2025-04-24,C1089,Shopping,Expense,Electro World,Cash,3176.69,Nagpur,Completed
+635,2025-10-20,C1018,Food,Expense,Daily Needs,Debit Card,334.91,Nagpur,Completed
+636,2025-05-12,C1052,Salary,Income,Northstar Services,Credit Card,30514.31,Delhi,Completed
+637,2025-06-16,C1106,Salary,Income,Northstar Services,Cash,35374.15,Hyderabad,Completed
+638,2025-06-03,C1100,Food,Expense,Fresh Mart,Debit Card,2068.77,Mumbai,Completed
+639,2025-08-11,C1030,Travel,Expense,City Cabs,Net Banking,5246.64,Hyderabad,Completed
+640,2025-01-22,C1090,Shopping,Expense,Style Point,Credit Card,5301.76,Hyderabad,Completed
+641,2025-07-21,C1074,Investment,Income,Savings Plan,UPI,22832.37,Pune,Completed
+642,2025-07-21,C1096,Food,Expense,Fresh Mart,Cash,1006.38,Bengaluru,Completed
+643,2025-07-24,C1018,Bills,Expense,Water Utility,Cash,3982.21,Pune,Completed
+644,2025-11-30,C1068,Healthcare,Expense,Care Pharmacy,Credit Card,4015.94,Hyderabad,Completed
+645,2025-08-09,C1086,Shopping,Expense,Home Needs,Net Banking,8355.17,Mumbai,Completed
+646,2025-06-14,C1022,Travel,Expense,Rail Connect,Cash,4035.84,Bengaluru,Completed
+647,2025-08-14,C1048,Food,Expense,Cafe Corner,UPI,2090.89,Hyderabad,Completed
+648,2025-05-05,C1112,Investment,Income,Equity Broker,UPI,27875.16,Mumbai,Completed
+649,2025-02-26,C1095,Shopping,Expense,Style Point,Credit Card,4505.12,Nagpur,Completed
+650,2025-05-13,C1089,Bills,Expense,Electricity Board,Net Banking,3303.69,Nagpur,Completed
+651,2025-09-27,C1102,Food,Expense,Daily Needs,UPI,633.22,Bengaluru,Completed
+652,2025-01-05,C1117,Food,Expense,Daily Needs,UPI,1735.84,Hyderabad,Completed
+653,2025-11-29,C1091,Travel,Expense,City Cabs,Debit Card,5884.82,Bengaluru,Completed
+654,2025-09-30,C1072,Food,Expense,Fresh Mart,UPI,697.47,Pune,Completed
+655,2025-06-06,C1045,Travel,Expense,Rail Connect,Debit Card,2542.38,Delhi,Completed
+656,2025-09-14,C1050,Shopping,Expense,Urban Store,Cash,1027.08,Mumbai,Completed
+657,2025-06-24,C1012,Freelance,Income,Consulting Desk,Net Banking,17452.5,Nagpur,Pending
+658,2025-11-10,C1054,Freelance,Income,Design Studio,Cash,18103.51,Pune,Completed
+659,2025-06-09,C1070,Freelance,Income,Design Studio,Credit Card,10244.26,Delhi,Completed
+660,2025-10-05,C1089,Entertainment,Expense,Game Zone,Cash,867.62,Pune,Completed
+661,2025-03-16,C1009,Entertainment,Expense,Game Zone,Cash,2063.99,Delhi,Completed
+662,2025-06-12,C1004,Salary,Income,XYZ Solutions,Net Banking,33731.37,Bengaluru,Completed
+663,2025-11-23,C1100,Freelance,Income,Design Studio,UPI,9023.52,Pune,Completed
+664,2025-11-10,C1077,Entertainment,Expense,Movie House,Credit Card,2198.49,Delhi,Completed
+665,2025-02-10,C1078,Entertainment,Expense,Music Stream,Debit Card,1772.79,Pune,Completed
+666,2025-09-09,C1053,Bills,Expense,Electricity Board,Debit Card,1237.04,Bengaluru,Completed
+667,2025-12-10,C1009,Investment,Income,Mutual Fund,Net Banking,22975.52,Nagpur,Completed
+668,2025-06-16,C1055,Freelance,Income,DataWorks,UPI,22526.91,Nagpur,Completed
+669,2025-07-14,C1074,Education,Expense,Online Academy,Cash,5032.73,Nagpur,Completed
+670,2025-12-27,C1058,Salary,Income,XYZ Solutions,UPI,56238.95,Pune,Completed
+671,2025-07-22,C1050,Investment,Income,Savings Plan,UPI,2138.3,Pune,Completed
+672,2025-07-23,C1037,Freelance,Income,DataWorks,Credit Card,20020.89,Bengaluru,Completed
+673,2025-01-28,C1083,Entertainment,Expense,Music Stream,UPI,3182.13,Delhi,Completed
+674,2025-04-03,C1090,Salary,Income,Northstar Services,Credit Card,81270.55,Bengaluru,Completed
+675,2025-08-19,C1115,Food,Expense,Cafe Corner,Net Banking,1270.78,Hyderabad,Completed
+676,2025-12-21,C1094,Entertainment,Expense,Movie House,UPI,2547.85,Hyderabad,Completed
+677,2025-11-21,C1102,Travel,Expense,Metro Travel,Net Banking,3285.76,Nagpur,Completed
+678,2025-03-29,C1085,Freelance,Income,Design Studio,Credit Card,15440.81,Pune,Completed
+679,2025-12-31,C1058,Food,Expense,Daily Needs,Credit Card,943.14,Hyderabad,Completed
+680,2025-04-14,C1064,Food,Refund,Food Hub,Cash,1972.14,Hyderabad,Completed
+681,2025-09-10,C1053,Shopping,Expense,Home Needs,UPI,5505.33,Nagpur,Completed
+682,2025-05-06,C1081,Freelance,Income,Consulting Desk,Credit Card,9118.48,Hyderabad,Completed
+683,2025-01-29,C1086,Entertainment,Expense,Game Zone,Cash,321.18,Mumbai,Completed
+684,2025-02-14,C1087,Food,Expense,Daily Needs,Cash,1188.15,Delhi,Completed
+685,2025-11-01,C1096,Healthcare,Expense,Health Plus,Debit Card,4022.8,Hyderabad,Completed
+686,2025-06-03,C1098,Shopping,Expense,Home Needs,Cash,8129.0,Hyderabad,Completed
+687,2025-03-10,C1053,Food,Expense,Cafe Corner,Credit Card,2183.67,Nagpur,Completed
+688,2025-10-20,C1062,Education,Expense,Online Academy,Cash,7733.25,Delhi,Completed
+689,2025-11-08,C1074,Salary,Income,Northstar Services,Debit Card,40579.6,Pune,Completed
+690,2025-09-12,C1024,Bills,Expense,Internet Services,Debit Card,3343.36,Pune,Completed
+691,2025-01-13,C1027,Bills,Expense,Water Utility,Net Banking,4085.3,Hyderabad,Completed
+692,2025-10-14,C1082,Salary,Income,ABC Technologies,Debit Card,37740.28,Mumbai,Completed
+693,2025-06-07,C1015,Shopping,Expense,Electro World,Debit Card,5174.95,Bengaluru,Completed
+694,2025-11-12,C1025,Investment,Income,Equity Broker,Debit Card,25129.24,Delhi,Completed
+695,2025-08-31,C1062,Salary,Income,ABC Technologies,Net Banking,63739.13,Nagpur,Completed
+696,2025-08-25,C1096,Salary,Income,ABC Technologies,Cash,49837.18,Mumbai,Completed
+697,2025-12-14,C1088,Shopping,Expense,Electro World,Debit Card,5055.03,Hyderabad,Pending
+698,2025-05-24,C1049,Salary,Income,Northstar Services,Cash,45349.15,Pune,Completed
+699,2025-07-19,C1040,Shopping,Expense,Electro World,UPI,1493.18,Mumbai,Completed
+700,2025-09-12,C1107,Freelance,Income,DataWorks,Credit Card,11174.84,Nagpur,Completed
+701,2025-02-27,C1012,Travel,Expense,Fuel Station,Cash,513.15,Hyderabad,Completed
+702,2025-09-14,C1112,Food,Expense,Daily Needs,Debit Card,1015.26,Pune,Completed
+703,2025-02-20,C1087,Salary,Income,ABC Technologies,Credit Card,81281.43,Delhi,Completed
+704,2025-07-18,C1120,Education,Refund,Learning Hub,Cash,6506.97,Hyderabad,Completed
+705,2025-01-24,C1003,Food,Expense,Daily Needs,Credit Card,1973.91,Mumbai,Completed
+706,2025-05-27,C1016,Shopping,Expense,Electro World,Credit Card,3212.77,Pune,Completed
+707,2025-01-08,C1014,Investment,Income,Mutual Fund,Cash,17229.15,Mumbai,Completed
+708,2025-05-19,C1032,Food,Expense,Cafe Corner,UPI,1834.8,Mumbai,Completed
+709,2025-06-23,C1116,Bills,Expense,Electricity Board,UPI,728.27,Bengaluru,Completed
+710,2025-08-07,C1081,Travel,Expense,Fuel Station,Cash,4316.66,Mumbai,Completed
+711,2025-04-12,C1119,Education,Expense,Book Store,Cash,8215.01,Pune,Completed
+712,2025-12-24,C1091,Bills,Expense,Water Utility,Net Banking,2550.13,Pune,Pending
+713,2025-03-15,C1117,Freelance,Income,DataWorks,Net Banking,16572.73,Pune,Completed
+714,2025-12-07,C1063,Travel,Expense,City Cabs,UPI,5206.51,Bengaluru,Completed
+715,2025-09-03,C1078,Bills,Expense,Internet Services,Cash,1268.61,Hyderabad,Completed
+716,2025-02-24,C1069,Shopping,Expense,Home Needs,Net Banking,6020.34,Nagpur,Completed
+717,2025-11-14,C1009,Shopping,Expense,Electro World,Credit Card,1851.67,Delhi,Completed
+718,2025-08-11,C1023,Healthcare,Expense,Health Plus,UPI,2526.97,Delhi,Completed
+719,2025-10-21,C1077,Salary,Income,XYZ Solutions,Debit Card,31859.37,Nagpur,Completed
+720,2025-08-16,C1014,Food,Expense,Food Hub,Debit Card,2400.74,Bengaluru,Completed
+721,2025-02-01,C1116,Food,Expense,Fresh Mart,Credit Card,2088.33,Delhi,Completed
+722,2025-09-30,C1027,Shopping,Expense,Electro World,Debit Card,5732.36,Nagpur,Completed
+723,2025-12-14,C1118,Shopping,Expense,Electro World,UPI,8518.33,Nagpur,Completed
+724,2025-09-19,C1048,Travel,Expense,City Cabs,UPI,1027.07,Delhi,Completed
+725,2025-07-03,C1056,Food,Expense,Food Hub,Debit Card,884.97,Delhi,Completed
+726,2025-07-15,C1018,Bills,Expense,Internet Services,Cash,1450.47,Bengaluru,Completed
+727,2025-07-04,C1112,Salary,Income,Northstar Services,Credit Card,34256.04,Pune,Completed
+728,2025-11-28,C1056,Food,Expense,Cafe Corner,UPI,1873.01,Pune,Completed
+729,2025-08-01,C1090,Freelance,Income,Consulting Desk,Net Banking,22658.81,Nagpur,Completed
+730,2025-09-18,C1029,Travel,Expense,Metro Travel,Net Banking,4974.41,Nagpur,Completed
+731,2025-09-13,C1065,Salary,Income,XYZ Solutions,Net Banking,39205.0,Nagpur,Completed
+732,2025-01-18,C1091,Investment,Income,Equity Broker,UPI,17476.34,Nagpur,Completed
+733,2025-12-20,C1110,Food,Expense,Daily Needs,Net Banking,1892.92,Nagpur,Completed
+734,2025-11-09,C1086,Food,Expense,Fresh Mart,Cash,1313.02,Nagpur,Completed
+735,2025-01-28,C1002,Freelance,Income,DataWorks,Net Banking,14770.73,Nagpur,Completed
+736,2025-10-21,C1103,Education,Expense,Book Store,Debit Card,5341.69,Pune,Completed
+737,2025-11-02,C1073,Salary,Income,XYZ Solutions,UPI,68618.3,Delhi,Completed
+738,2025-03-28,C1095,Healthcare,Expense,Health Plus,UPI,4662.98,Mumbai,Completed
+739,2025-03-06,C1017,Bills,Expense,Mobile Network,Debit Card,4331.5,Mumbai,Completed
+740,2025-02-27,C1085,Healthcare,Expense,City Clinic,Debit Card,6388.89,Pune,Completed
+741,2025-12-25,C1005,Shopping,Expense,Electro World,UPI,2036.88,Pune,Completed
+742,2025-03-20,C1053,Salary,Income,XYZ Solutions,Credit Card,70165.68,Delhi,Completed
+743,2025-11-23,C1007,Food,Expense,Daily Needs,UPI,1549.95,Hyderabad,Completed
+744,2025-07-24,C1119,Bills,Expense,Internet Services,Net Banking,2643.2,Delhi,Completed
+745,2025-08-31,C1037,Shopping,Expense,Home Needs,Net Banking,5008.76,Delhi,Completed
+746,2025-09-29,C1082,Entertainment,Expense,Music Stream,Net Banking,335.36,Nagpur,Completed
+747,2025-05-20,C1084,Travel,Expense,Fuel Station,Net Banking,1822.4,Delhi,Completed
+748,2025-12-11,C1089,Healthcare,Expense,Care Pharmacy,Debit Card,1525.49,Nagpur,Completed
+749,2025-01-05,C1013,Salary,Income,Northstar Services,UPI,25717.68,Delhi,Completed
+750,2025-04-23,C1080,Education,Expense,Learning Hub,UPI,3396.81,Nagpur,Completed
+751,2025-04-22,C1091,Investment,Income,Mutual Fund,UPI,19504.4,Nagpur,Completed
+752,2025-12-03,C1103,Salary,Income,ABC Technologies,UPI,63874.35,Delhi,Completed
+753,2025-05-31,C1119,Bills,Expense,Mobile Network,Net Banking,4712.82,Delhi,Completed
+754,2025-06-15,C1008,Shopping,Expense,Home Needs,Net Banking,7136.22,Mumbai,Failed
+755,2025-05-13,C1057,Investment,Income,Mutual Fund,Net Banking,8675.28,Pune,Completed
+756,2025-04-02,C1056,Entertainment,Expense,Movie House,Cash,557.82,Delhi,Completed
+757,2025-08-15,C1074,Education,Expense,Online Academy,Debit Card,1687.8,Bengaluru,Completed
+758,2025-09-12,C1086,Food,Expense,Food Hub,Debit Card,1690.75,Pune,Completed
+759,2025-07-20,C1063,Healthcare,Expense,City Clinic,Net Banking,3704.6,Bengaluru,Completed
+760,2025-02-05,C1105,Bills,Expense,Water Utility,UPI,514.88,Nagpur,Completed
+761,2025-07-03,C1083,Travel,Expense,City Cabs,Debit Card,2026.12,Nagpur,Completed
+762,2025-06-24,C1083,Food,Expense,Cafe Corner,Credit Card,1284.19,Nagpur,Completed
+763,2025-07-16,C1014,Entertainment,Expense,Game Zone,Debit Card,1186.27,Bengaluru,Completed
+764,2025-11-20,C1004,Bills,Expense,Internet Services,Net Banking,1352.59,Bengaluru,Completed
+765,2025-10-04,C1104,Entertainment,Expense,Music Stream,UPI,1848.96,Hyderabad,Completed
+766,2025-06-22,C1016,Salary,Income,ABC Technologies,Cash,27568.87,Bengaluru,Pending
+767,2025-10-02,C1005,Food,Expense,Cafe Corner,Net Banking,1553.53,Delhi,Completed
+768,2025-11-13,C1023,Food,Expense,Fresh Mart,Debit Card,1827.92,Hyderabad,Completed
+769,2025-03-29,C1105,Salary,Income,ABC Technologies,UPI,28837.46,Bengaluru,Completed
+770,2025-11-12,C1104,Shopping,Expense,Home Needs,Debit Card,7337.86,Hyderabad,Pending
+771,2025-10-22,C1028,Bills,Expense,Electricity Board,Cash,1947.15,Pune,Completed
+772,2025-03-03,C1048,Shopping,Expense,Style Point,Net Banking,6939.18,Pune,Completed
+773,2025-01-21,C1049,Food,Expense,Cafe Corner,UPI,2029.87,Bengaluru,Completed
+774,2025-01-04,C1114,Food,Expense,Daily Needs,Net Banking,450.57,Delhi,Completed
+775,2025-09-01,C1067,Education,Expense,Book Store,Net Banking,2870.84,Pune,Completed
+776,2025-11-09,C1079,Education,Expense,Learning Hub,Debit Card,7357.13,Mumbai,Completed
+777,2025-10-13,C1013,Shopping,Expense,Electro World,Cash,1498.82,Nagpur,Completed
+778,2025-11-17,C1102,Entertainment,Expense,Movie House,Net Banking,1112.21,Bengaluru,Completed
+779,2025-12-10,C1047,Freelance,Income,DataWorks,Credit Card,4188.61,Bengaluru,Completed
+780,2025-11-12,C1006,Salary,Income,ABC Technologies,UPI,70504.48,Nagpur,Completed
+781,2025-01-15,C1093,Bills,Expense,Water Utility,Cash,1022.29,Nagpur,Completed
+782,2025-04-12,C1030,Salary,Income,ABC Technologies,Debit Card,78902.37,Pune,Completed
+783,2025-07-31,C1029,Freelance,Income,Design Studio,Net Banking,11261.71,Nagpur,Completed
+784,2025-08-12,C1050,Food,Expense,Daily Needs,Credit Card,2337.75,Bengaluru,Completed
+785,2025-11-20,C1005,Travel,Expense,City Cabs,Debit Card,1837.26,Pune,Completed
+786,2025-08-27,C1114,Bills,Expense,Mobile Network,Cash,1270.41,Pune,Completed
+787,2025-11-23,C1074,Investment,Income,Savings Plan,Credit Card,27261.76,Hyderabad,Completed
+788,2025-09-25,C1108,Bills,Expense,Water Utility,Debit Card,4980.49,Hyderabad,Completed
+789,2025-05-07,C1119,Shopping,Expense,Style Point,Cash,4191.11,Hyderabad,Completed
+790,2025-01-23,C1005,Food,Expense,Food Hub,Cash,1308.97,Bengaluru,Completed
+791,2025-12-23,C1031,Salary,Income,ABC Technologies,Cash,52146.48,Hyderabad,Completed
+792,2025-07-28,C1038,Investment,Income,Mutual Fund,UPI,4848.65,Hyderabad,Completed
+793,2025-06-06,C1075,Food,Expense,Fresh Mart,Net Banking,1283.39,Bengaluru,Completed
+794,2025-12-27,C1060,Travel,Expense,City Cabs,UPI,4802.19,Bengaluru,Completed
+795,2025-06-20,C1090,Bills,Expense,Internet Services,UPI,1834.65,Nagpur,Completed
+796,2025-01-29,C1007,Bills,Expense,Electricity Board,Net Banking,4595.02,Mumbai,Completed
+797,2025-01-21,C1009,Travel,Expense,Metro Travel,Credit Card,1299.02,Mumbai,Completed
+798,2025-02-28,C1112,Entertainment,Expense,Game Zone,Credit Card,2633.35,Delhi,Completed
+799,2025-06-14,C1036,Travel,Expense,City Cabs,UPI,1823.94,Mumbai,Completed
+800,2025-09-06,C1069,Bills,Expense,Mobile Network,Net Banking,4233.02,Nagpur,Completed
+801,2025-12-11,C1114,Investment,Income,Mutual Fund,Credit Card,24455.08,Bengaluru,Completed
+802,2025-07-20,C1010,Freelance,Income,Design Studio,Credit Card,9344.2,Mumbai,Completed
+803,2025-03-17,C1081,Bills,Expense,Electricity Board,Debit Card,4437.47,Bengaluru,Pending
+804,2025-10-05,C1054,Freelance,Income,DataWorks,UPI,13425.91,Mumbai,Completed
+805,2025-01-12,C1067,Freelance,Income,Consulting Desk,Debit Card,8111.22,Bengaluru,Completed
+806,2025-12-02,C1090,Entertainment,Expense,Game Zone,Cash,1276.81,Bengaluru,Completed
+807,2025-10-18,C1034,Food,Expense,Cafe Corner,Net Banking,2026.03,Mumbai,Pending
+808,2025-01-25,C1080,Food,Expense,Cafe Corner,Cash,889.86,Mumbai,Completed
+809,2025-03-31,C1086,Salary,Income,ABC Technologies,Credit Card,66571.56,Pune,Completed
+810,2025-06-12,C1027,Healthcare,Expense,Health Plus,UPI,3198.04,Delhi,Completed
+811,2025-06-26,C1069,Food,Expense,Daily Needs,UPI,1258.97,Hyderabad,Completed
+812,2025-09-13,C1119,Salary,Income,XYZ Solutions,Credit Card,81867.34,Hyderabad,Pending
+813,2025-10-07,C1091,Investment,Income,Equity Broker,Net Banking,10607.14,Mumbai,Pending
+814,2025-10-21,C1119,Entertainment,Expense,Music Stream,Debit Card,2838.6,Delhi,Completed
+815,2025-09-03,C1071,Freelance,Income,Design Studio,Debit Card,6067.31,Hyderabad,Completed
+816,2025-04-23,C1083,Bills,Expense,Internet Services,Cash,916.17,Nagpur,Completed
+817,2025-05-23,C1087,Shopping,Expense,Urban Store,Cash,1210.51,Bengaluru,Completed
+818,2025-06-12,C1086,Healthcare,Expense,City Clinic,Net Banking,3678.58,Pune,Completed
+819,2025-08-07,C1045,Travel,Expense,Rail Connect,Net Banking,2425.14,Nagpur,Completed
+820,2025-08-16,C1057,Salary,Income,XYZ Solutions,Credit Card,49936.59,Delhi,Pending
+821,2025-08-06,C1077,Education,Expense,Learning Hub,Credit Card,5263.23,Pune,Completed
+822,2025-09-26,C1076,Investment,Income,Equity Broker,UPI,2917.36,Hyderabad,Completed
+823,2025-05-20,C1097,Travel,Expense,Metro Travel,Credit Card,3468.14,Pune,Completed
+824,2025-05-29,C1107,Healthcare,Expense,Health Plus,Debit Card,487.18,Bengaluru,Completed
+825,2025-08-26,C1039,Shopping,Expense,Home Needs,UPI,7225.37,Delhi,Completed
+826,2025-05-28,C1032,Travel,Expense,City Cabs,UPI,3103.75,Mumbai,Completed
+827,2025-02-04,C1056,Healthcare,Expense,City Clinic,Net Banking,2659.96,Delhi,Completed
+828,2025-07-11,C1021,Bills,Expense,Electricity Board,Credit Card,3088.69,Mumbai,Completed
+829,2025-12-21,C1054,Food,Expense,Daily Needs,UPI,617.44,Mumbai,Completed
+830,2025-11-24,C1099,Freelance,Income,Consulting Desk,Credit Card,14305.06,Hyderabad,Completed
+831,2025-03-27,C1088,Bills,Expense,Mobile Network,Debit Card,4425.99,Delhi,Completed
+832,2025-07-05,C1002,Food,Expense,Cafe Corner,Cash,1555.1,Mumbai,Completed
+833,2025-09-06,C1028,Travel,Expense,Metro Travel,Cash,5549.17,Pune,Completed
+834,2025-10-14,C1069,Entertainment,Expense,Game Zone,Cash,2943.67,Delhi,Completed
+835,2025-02-28,C1017,Travel,Expense,City Cabs,Net Banking,5521.38,Mumbai,Completed
+836,2025-07-05,C1067,Food,Expense,Daily Needs,Credit Card,1244.36,Delhi,Completed
+837,2025-03-02,C1030,Shopping,Expense,Electro World,Credit Card,7782.93,Pune,Completed
+838,2025-02-10,C1003,Travel,Expense,Fuel Station,Net Banking,4649.24,Hyderabad,Completed
+839,2025-01-17,C1008,Salary,Income,XYZ Solutions,UPI,55808.75,Mumbai,Completed
+840,2025-06-04,C1118,Entertainment,Expense,Game Zone,Credit Card,2690.02,Nagpur,Completed
+841,2025-04-05,C1096,Entertainment,Expense,Music Stream,Cash,296.56,Mumbai,Completed
+842,2025-09-14,C1065,Salary,Income,Northstar Services,UPI,61777.39,Hyderabad,Completed
+843,2025-01-08,C1022,Bills,Expense,Electricity Board,UPI,3721.15,Pune,Completed
+844,2025-12-29,C1087,Bills,Expense,Electricity Board,Credit Card,3641.6,Mumbai,Failed
+845,2025-08-06,C1041,Shopping,Expense,Urban Store,Net Banking,2434.21,Hyderabad,Completed
+846,2025-09-11,C1072,Salary,Income,Northstar Services,UPI,67283.85,Hyderabad,Completed
+847,2025-03-01,C1088,Travel,Expense,Fuel Station,Credit Card,2904.59,Nagpur,Completed
+848,2025-08-08,C1061,Shopping,Expense,Electro World,Credit Card,1091.68,Hyderabad,Failed
+849,2025-09-09,C1087,Entertainment,Expense,Movie House,UPI,1508.02,Pune,Completed
+850,2025-12-22,C1022,Healthcare,Expense,Care Pharmacy,Debit Card,891.71,Pune,Completed
+851,2025-11-01,C1030,Salary,Income,XYZ Solutions,Net Banking,49257.34,Mumbai,Completed
+852,2025-10-25,C1052,Healthcare,Expense,City Clinic,Net Banking,5342.86,Delhi,Completed
+853,2025-07-27,C1019,Investment,Income,Equity Broker,UPI,15831.02,Hyderabad,Completed
+854,2025-09-12,C1095,Shopping,Expense,Urban Store,UPI,8510.43,Bengaluru,Completed
+855,2025-04-02,C1080,Travel,Expense,City Cabs,UPI,4171.46,Delhi,Completed
+856,2025-09-10,C1085,Salary,Income,XYZ Solutions,Net Banking,37115.91,Nagpur,Completed
+857,2025-06-25,C1003,Salary,Income,ABC Technologies,Net Banking,57431.74,Hyderabad,Completed
+858,2025-06-11,C1005,Salary,Income,ABC Technologies,Credit Card,51553.37,Nagpur,Completed
+859,2025-06-05,C1056,Freelance,Income,Design Studio,Debit Card,6611.17,Delhi,Completed
+860,2025-02-26,C1070,Healthcare,Expense,Health Plus,Net Banking,3535.77,Bengaluru,Completed
+861,2025-03-22,C1049,Bills,Expense,Mobile Network,Debit Card,2261.23,Mumbai,Completed
+862,2025-10-30,C1095,Food,Expense,Fresh Mart,Debit Card,2133.1,Bengaluru,Completed
+863,2025-06-26,C1008,Investment,Income,Savings Plan,Credit Card,12945.96,Pune,Completed
+864,2025-06-09,C1040,Healthcare,Expense,Care Pharmacy,Debit Card,6390.65,Pune,Completed
+865,2025-06-16,C1066,Food,Expense,Food Hub,Debit Card,1729.98,Hyderabad,Completed
+866,2025-10-29,C1042,Food,Expense,Fresh Mart,Net Banking,962.16,Hyderabad,Completed
+867,2025-04-16,C1044,Travel,Expense,Metro Travel,Cash,3165.78,Mumbai,Completed
+868,2025-08-12,C1010,Shopping,Expense,Style Point,Debit Card,5901.28,Mumbai,Completed
+869,2025-10-21,C1012,Travel,Expense,City Cabs,Cash,1587.55,Mumbai,Completed
+870,2025-10-18,C1027,Salary,Income,XYZ Solutions,UPI,53516.1,Delhi,Completed
+871,2025-09-16,C1070,Salary,Income,XYZ Solutions,Credit Card,50974.63,Bengaluru,Completed
+872,2025-11-16,C1113,Bills,Expense,Electricity Board,Cash,3522.02,Pune,Completed
+873,2025-04-20,C1035,Entertainment,Expense,Game Zone,Cash,2918.9,Nagpur,Completed
+874,2025-08-11,C1008,Freelance,Income,Consulting Desk,Credit Card,18985.53,Mumbai,Completed
+875,2025-05-04,C1056,Food,Expense,Food Hub,Debit Card,1791.94,Hyderabad,Completed
+876,2025-07-31,C1088,Shopping,Expense,Style Point,Net Banking,2939.88,Pune,Completed
+877,2025-04-09,C1063,Food,Expense,Food Hub,Net Banking,2043.35,Delhi,Completed
+878,2025-04-14,C1103,Food,Expense,Daily Needs,Cash,556.97,Pune,Completed
+879,2025-01-22,C1003,Investment,Income,Mutual Fund,UPI,15089.42,Mumbai,Completed
+880,2025-02-02,C1047,Freelance,Income,Consulting Desk,UPI,11954.15,Bengaluru,Pending
+881,2025-03-13,C1016,Shopping,Expense,Electro World,Net Banking,5353.27,Hyderabad,Completed
+882,2025-03-04,C1107,Salary,Income,Northstar Services,Net Banking,43804.62,Delhi,Completed
+883,2025-08-05,C1036,Shopping,Expense,Home Needs,Net Banking,1407.92,Mumbai,Completed
+884,2025-01-29,C1041,Bills,Expense,Water Utility,Net Banking,2186.17,Delhi,Completed
+885,2025-05-23,C1047,Freelance,Income,DataWorks,Debit Card,23613.39,Mumbai,Completed
+886,2025-11-07,C1007,Food,Expense,Cafe Corner,Debit Card,1913.76,Nagpur,Completed
+887,2025-11-24,C1104,Investment,Income,Savings Plan,UPI,11522.8,Nagpur,Completed
+888,2025-08-15,C1118,Travel,Expense,Rail Connect,Debit Card,5485.8,Hyderabad,Completed
+889,2025-05-01,C1057,Shopping,Expense,Electro World,Net Banking,7805.04,Hyderabad,Completed
+890,2025-02-11,C1061,Salary,Income,Northstar Services,Net Banking,81429.73,Mumbai,Completed
+891,2025-02-21,C1065,Salary,Income,ABC Technologies,Debit Card,66908.93,Bengaluru,Completed
+892,2025-10-08,C1007,Education,Expense,Online Academy,Credit Card,5712.51,Delhi,Completed
+893,2025-11-25,C1041,Food,Expense,Fresh Mart,UPI,1151.49,Pune,Completed
+894,2025-11-29,C1088,Salary,Income,XYZ Solutions,Debit Card,75817.63,Bengaluru,Completed
+895,2025-03-10,C1103,Shopping,Expense,Electro World,Credit Card,6343.47,Hyderabad,Completed
+896,2025-04-04,C1074,Travel,Expense,Metro Travel,UPI,2450.72,Hyderabad,Completed
+897,2025-11-28,C1060,Entertainment,Expense,Movie House,Debit Card,954.73,Delhi,Completed
+898,2025-01-26,C1012,Travel,Expense,Rail Connect,Credit Card,2744.75,Nagpur,Completed
+899,2025-09-27,C1087,Bills,Expense,Water Utility,UPI,4639.95,Pune,Completed
+900,2025-04-08,C1035,Investment,Income,Equity Broker,Net Banking,24588.96,Bengaluru,Completed
+901,2025-04-16,C1087,Healthcare,Expense,Care Pharmacy,Net Banking,6967.41,Pune,Completed
+902,2025-03-16,C1058,Food,Expense,Cafe Corner,Debit Card,2446.29,Nagpur,Completed
+903,2025-08-23,C1089,Food,Expense,Food Hub,Credit Card,1304.98,Delhi,Completed
+904,2025-08-05,C1008,Education,Expense,Learning Hub,Debit Card,3446.59,Pune,Completed
+905,2025-07-01,C1103,Investment,Income,Savings Plan,UPI,28240.34,Hyderabad,Completed
+906,2025-11-14,C1017,Travel,Expense,City Cabs,Cash,5871.89,Pune,Completed
+907,2025-09-15,C1012,Bills,Expense,Mobile Network,Cash,2026.3,Bengaluru,Completed
+908,2025-03-01,C1107,Shopping,Expense,Electro World,Debit Card,8817.39,Bengaluru,Completed
+909,2025-05-15,C1041,Entertainment,Expense,Music Stream,Credit Card,2713.16,Mumbai,Completed
+910,2025-09-09,C1110,Salary,Income,Northstar Services,Net Banking,34075.88,Hyderabad,Completed
+911,2025-01-28,C1091,Shopping,Expense,Home Needs,Net Banking,804.83,Hyderabad,Failed
+912,2025-09-11,C1063,Food,Expense,Food Hub,Net Banking,1052.17,Hyderabad,Completed
+913,2025-03-17,C1024,Food,Expense,Cafe Corner,Cash,460.55,Mumbai,Completed
+914,2025-12-06,C1068,Healthcare,Expense,Health Plus,Credit Card,4168.12,Bengaluru,Completed
+915,2025-05-07,C1114,Salary,Income,XYZ Solutions,UPI,65614.51,Mumbai,Completed
+916,2025-12-15,C1014,Food,Expense,Daily Needs,Credit Card,1090.51,Hyderabad,Completed
+917,2025-12-29,C1077,Entertainment,Expense,Game Zone,UPI,1698.38,Mumbai,Pending
+918,2025-12-02,C1094,Entertainment,Expense,Game Zone,Credit Card,1695.24,Pune,Completed
+919,2025-11-26,C1071,Shopping,Expense,Home Needs,UPI,7284.25,Bengaluru,Completed
+920,2025-05-03,C1012,Investment,Income,Mutual Fund,Credit Card,26099.95,Pune,Completed
+921,2025-07-26,C1016,Shopping,Expense,Electro World,Net Banking,6896.75,Bengaluru,Completed
+922,2025-06-08,C1046,Freelance,Income,Consulting Desk,UPI,16277.3,Mumbai,Completed
+923,2025-09-08,C1077,Bills,Expense,Water Utility,UPI,2246.4,Bengaluru,Completed
+924,2025-11-11,C1066,Shopping,Expense,Electro World,Net Banking,5860.83,Delhi,Completed
+925,2025-12-18,C1083,Education,Expense,Online Academy,UPI,11202.68,Mumbai,Completed
+926,2025-02-10,C1020,Freelance,Income,Design Studio,Debit Card,13507.45,Pune,Completed
+927,2025-06-01,C1066,Healthcare,Expense,Care Pharmacy,Cash,3946.76,Bengaluru,Completed
+928,2025-08-26,C1033,Entertainment,Expense,Game Zone,UPI,2075.98,Nagpur,Completed
+929,2025-12-05,C1006,Bills,Expense,Electricity Board,Net Banking,4037.8,Delhi,Completed
+930,2025-10-28,C1104,Education,Expense,Book Store,Debit Card,9209.57,Pune,Completed
+931,2025-02-10,C1112,Salary,Income,Northstar Services,UPI,61243.17,Bengaluru,Completed
+932,2025-01-03,C1059,Travel,Expense,Fuel Station,Cash,375.84,Delhi,Completed
+933,2025-11-13,C1089,Salary,Income,Northstar Services,Net Banking,62004.69,Mumbai,Completed
+934,2025-03-11,C1025,Food,Refund,Fresh Mart,Credit Card,501.8,Bengaluru,Completed
+935,2025-11-29,C1069,Shopping,Expense,Style Point,UPI,7657.76,Mumbai,Completed
+936,2025-03-17,C1020,Bills,Expense,Water Utility,Net Banking,598.18,Bengaluru,Completed
+937,2025-08-19,C1107,Healthcare,Expense,City Clinic,UPI,1569.1,Mumbai,Completed
+938,2025-11-19,C1054,Salary,Income,XYZ Solutions,Cash,50907.28,Nagpur,Completed
+939,2025-05-29,C1093,Food,Expense,Food Hub,Credit Card,1149.28,Delhi,Completed
+940,2025-01-10,C1115,Travel,Expense,Fuel Station,Net Banking,2100.35,Hyderabad,Completed
+941,2025-11-27,C1037,Travel,Refund,Metro Travel,Net Banking,4275.83,Mumbai,Completed
+942,2025-09-17,C1078,Shopping,Expense,Home Needs,Credit Card,8227.1,Mumbai,Completed
+943,2025-07-19,C1087,Investment,Income,Savings Plan,Debit Card,25159.34,Bengaluru,Completed
+944,2025-03-24,C1086,Entertainment,Expense,Music Stream,Credit Card,1132.11,Pune,Completed
+945,2025-11-07,C1064,Bills,Expense,Mobile Network,Credit Card,4070.67,Pune,Completed
+946,2025-01-10,C1023,Travel,Expense,City Cabs,UPI,1786.61,Mumbai,Completed
+947,2025-11-13,C1044,Shopping,Expense,Electro World,UPI,5276.84,Nagpur,Completed
+948,2025-03-19,C1078,Salary,Income,Northstar Services,UPI,77421.74,Delhi,Completed
+949,2025-08-13,C1097,Salary,Income,ABC Technologies,UPI,82758.83,Nagpur,Completed
+950,2025-02-22,C1014,Salary,Income,ABC Technologies,UPI,27518.17,Pune,Completed
+951,2025-03-22,C1064,Education,Expense,Online Academy,UPI,8643.88,Pune,Completed
+952,2025-06-21,C1026,Salary,Income,XYZ Solutions,Net Banking,32379.01,Hyderabad,Completed
+953,2025-08-31,C1048,Travel,Expense,Fuel Station,Debit Card,3178.63,Delhi,Completed
+954,2025-03-19,C1101,Salary,Income,ABC Technologies,Credit Card,56779.02,Bengaluru,Completed
+955,2025-07-29,C1067,Freelance,Income,Consulting Desk,Debit Card,23940.49,Hyderabad,Completed
+956,2025-01-06,C1044,Education,Expense,Book Store,Net Banking,6449.51,Pune,Completed
+957,2025-07-21,C1083,Salary,Income,ABC Technologies,Cash,64610.57,Hyderabad,Pending
+958,2025-12-05,C1054,Freelance,Income,DataWorks,Cash,24398.55,Mumbai,Completed
+959,2025-06-10,C1036,Freelance,Income,Consulting Desk,Cash,3173.85,Pune,Completed
+960,2025-08-17,C1080,Entertainment,Expense,Game Zone,Net Banking,3129.01,Delhi,Completed
+961,2025-11-29,C1005,Travel,Expense,Rail Connect,Net Banking,1424.59,Delhi,Completed
+962,2025-03-06,C1066,Bills,Expense,Mobile Network,Cash,2933.56,Mumbai,Completed
+963,2025-03-23,C1034,Food,Expense,Cafe Corner,Debit Card,2253.22,Delhi,Completed
+964,2025-09-16,C1081,Food,Expense,Daily Needs,UPI,384.88,Hyderabad,Completed
+965,2025-03-05,C1044,Bills,Refund,Internet Services,Cash,3075.96,Nagpur,Completed
+966,2025-11-18,C1039,Entertainment,Expense,Music Stream,Cash,2986.84,Delhi,Completed
+967,2025-07-13,C1075,Bills,Expense,Internet Services,Debit Card,1614.35,Bengaluru,Completed
+968,2025-12-31,C1055,Travel,Expense,Metro Travel,Net Banking,2648.7,Pune,Completed
+969,2025-07-09,C1100,Entertainment,Expense,Music Stream,Debit Card,1529.09,Nagpur,Completed
+970,2025-08-05,C1063,Investment,Income,Savings Plan,Net Banking,20981.52,Pune,Completed
+971,2025-03-07,C1066,Bills,Expense,Electricity Board,Credit Card,2559.71,Bengaluru,Completed
+972,2025-03-22,C1016,Investment,Income,Savings Plan,Net Banking,11710.63,Hyderabad,Completed
+973,2025-10-20,C1040,Shopping,Expense,Electro World,Debit Card,4943.61,Mumbai,Completed
+974,2025-03-15,C1115,Food,Expense,Daily Needs,Debit Card,1576.65,Pune,Completed
+975,2025-09-08,C1006,Food,Expense,Food Hub,Net Banking,1481.96,Nagpur,Completed
+976,2025-08-20,C1061,Freelance,Income,Consulting Desk,Cash,20189.69,Pune,Completed
+977,2025-09-16,C1020,Entertainment,Expense,Game Zone,Debit Card,2713.54,Hyderabad,Completed
+978,2025-12-07,C1044,Entertainment,Expense,Game Zone,UPI,1477.88,Delhi,Completed
+979,2025-05-23,C1074,Entertainment,Expense,Game Zone,Debit Card,3057.65,Nagpur,Completed
+980,2025-11-26,C1074,Healthcare,Expense,Care Pharmacy,Cash,1508.5,Nagpur,Completed
+981,2025-09-01,C1069,Bills,Expense,Internet Services,UPI,583.99,Mumbai,Completed
+982,2025-05-06,C1075,Salary,Income,XYZ Solutions,UPI,75335.05,Nagpur,Completed
+983,2025-07-25,C1044,Healthcare,Expense,City Clinic,Credit Card,3542.02,Bengaluru,Completed
+984,2025-09-28,C1013,Shopping,Expense,Style Point,Debit Card,2686.01,Pune,Completed
+985,2025-02-15,C1008,Food,Expense,Daily Needs,Credit Card,2392.37,Hyderabad,Completed
+986,2025-06-02,C1042,Travel,Expense,Rail Connect,Net Banking,2124.24,Hyderabad,Completed
+987,2025-05-03,C1064,Salary,Income,Northstar Services,Cash,60161.74,Bengaluru,Pending
+988,2025-05-18,C1062,Food,Expense,Fresh Mart,Net Banking,1295.85,Delhi,Completed
+989,2025-01-10,C1032,Shopping,Expense,Style Point,Debit Card,8689.53,Nagpur,Completed
+990,2025-02-12,C1101,Salary,Income,ABC Technologies,Debit Card,55025.94,Nagpur,Failed
+991,2025-05-06,C1058,Bills,Expense,Electricity Board,UPI,2406.89,Bengaluru,Pending
+992,2025-11-14,C1120,Shopping,Refund,Home Needs,Debit Card,8762.7,Nagpur,Completed
+993,2025-12-15,C1075,Travel,Expense,Rail Connect,UPI,2303.08,Pune,Completed
+994,2025-10-16,C1107,Food,Expense,Cafe Corner,Cash,451.86,Mumbai,Completed
+995,2025-04-18,C1088,Entertainment,Expense,Music Stream,Debit Card,3359.48,Delhi,Completed
+996,2025-05-06,C1077,Entertainment,Expense,Music Stream,UPI,1261.41,Delhi,Completed
+997,2025-01-02,C1023,Healthcare,Refund,City Clinic,Cash,229.1,Delhi,Completed
+998,2025-07-21,C1010,Bills,Expense,Electricity Board,Net Banking,4042.87,Delhi,Completed
+999,2025-07-12,C1023,Salary,Income,Northstar Services,UPI,46477.94,Hyderabad,Completed
+1000,2025-04-09,C1036,Bills,Refund,Mobile Network,Credit Card,1496.84,Hyderabad,Completed
+1001,2025-11-17,C1064,Shopping,Expense,Electro World,UPI,6601.38,Mumbai,Completed
+1002,2025-12-27,C1106,Education,Expense,Online Academy,Net Banking,2904.49,Hyderabad,Completed
+1003,2025-10-19,C1095,Bills,Expense,Internet Services,UPI,1267.15,Nagpur,Completed
+1004,2025-02-03,C1113,Food,Expense,Daily Needs,Credit Card,2350.52,Delhi,Completed
+1005,2025-12-21,C1114,Entertainment,Expense,Music Stream,UPI,2227.71,Bengaluru,Completed
+1006,2025-11-29,C1053,Food,Expense,Daily Needs,UPI,2362.21,Delhi,Completed
+1007,2025-09-11,C1029,Travel,Expense,City Cabs,Debit Card,4626.42,Bengaluru,Completed
+1008,2025-06-11,C1074,Food,Expense,Fresh Mart,Credit Card,687.87,Delhi,Completed
+1009,2025-02-08,C1043,Freelance,Income,DataWorks,UPI,7331.29,Delhi,Completed
+1010,2025-01-15,C1081,Bills,Expense,Mobile Network,Debit Card,4136.27,Pune,Completed
+1011,2025-05-03,C1106,Investment,Income,Equity Broker,Cash,25143.01,Pune,Pending
+1012,2025-11-04,C1075,Entertainment,Expense,Movie House,UPI,2721.53,Hyderabad,Completed
+1013,2025-07-13,C1017,Shopping,Expense,Urban Store,Net Banking,7705.38,Hyderabad,Completed
+1014,2025-11-17,C1007,Bills,Expense,Mobile Network,Net Banking,958.22,Bengaluru,Completed
+1015,2025-07-30,C1002,Shopping,Expense,Home Needs,Net Banking,5596.39,Bengaluru,Completed
+1016,2025-11-14,C1101,Entertainment,Expense,Movie House,Net Banking,1320.73,Nagpur,Completed
+1017,2025-04-09,C1076,Food,Expense,Cafe Corner,Cash,277.65,Pune,Completed
+1018,2025-05-12,C1024,Travel,Expense,Metro Travel,Credit Card,3043.98,Hyderabad,Completed
+1019,2025-06-09,C1046,Healthcare,Expense,City Clinic,Cash,3689.26,Nagpur,Completed
+1020,2025-03-17,C1002,Bills,Expense,Internet Services,UPI,3214.98,Pune,Completed
+1021,2025-10-14,C1026,Salary,Income,ABC Technologies,Credit Card,50323.67,Hyderabad,Completed
+1022,2025-12-08,C1089,Bills,Expense,Mobile Network,Cash,3613.28,Nagpur,Pending
+1023,2025-11-12,C1113,Shopping,Expense,Urban Store,Net Banking,3293.26,Pune,Completed
+1024,2025-11-24,C1031,Shopping,Expense,Home Needs,Debit Card,2457.33,Delhi,Completed
+1025,2025-07-24,C1010,Shopping,Expense,Electro World,UPI,8913.96,Nagpur,Completed
+1026,2025-05-29,C1047,Bills,Expense,Electricity Board,UPI,3341.01,Pune,Completed
+1027,2025-03-31,C1109,Shopping,Expense,Style Point,Credit Card,2726.99,Pune,Completed
+1028,2025-05-15,C1087,Freelance,Income,Design Studio,Net Banking,3461.86,Delhi,Completed
+1029,2025-02-26,C1048,Travel,Expense,Rail Connect,Credit Card,1498.35,Nagpur,Pending
+1030,2025-11-16,C1009,Freelance,Income,Design Studio,Credit Card,22324.53,Pune,Completed
+1031,2025-04-09,C1055,Bills,Expense,Internet Services,UPI,3624.59,Nagpur,Completed
+1032,2025-10-02,C1081,Shopping,Expense,Electro World,Credit Card,1762.82,Nagpur,Pending
+1033,2025-09-08,C1085,Shopping,Expense,Urban Store,Credit Card,1191.97,Nagpur,Completed
+1034,2025-11-27,C1067,Salary,Income,XYZ Solutions,Credit Card,47455.97,Mumbai,Completed
+1035,2025-09-27,C1035,Education,Expense,Online Academy,Net Banking,8729.97,Delhi,Completed
+1036,2025-10-26,C1058,Entertainment,Expense,Movie House,Net Banking,883.76,Pune,Completed
+1037,2025-07-13,C1071,Healthcare,Expense,Care Pharmacy,Credit Card,6561.39,Hyderabad,Completed
+1038,2025-09-23,C1080,Travel,Expense,Rail Connect,Net Banking,3628.58,Bengaluru,Completed
+1039,2025-07-29,C1004,Travel,Expense,Metro Travel,Net Banking,3136.0,Pune,Completed
+1040,2025-02-08,C1066,Travel,Expense,City Cabs,Debit Card,769.79,Pune,Completed
+1041,2025-02-06,C1087,Travel,Expense,Rail Connect,Debit Card,3412.35,Mumbai,Completed
+1042,2025-12-16,C1078,Salary,Income,ABC Technologies,Cash,36438.55,Mumbai,Completed
+1043,2025-06-03,C1052,Shopping,Expense,Urban Store,Net Banking,3446.38,Delhi,Completed
+1044,2025-03-18,C1093,Freelance,Income,Consulting Desk,Credit Card,8006.73,Bengaluru,Completed
+1045,2025-10-28,C1093,Salary,Income,XYZ Solutions,Debit Card,70457.28,Hyderabad,Completed
+1046,2025-04-07,C1057,Travel,Expense,Fuel Station,Cash,5669.0,Hyderabad,Completed
+1047,2025-10-23,C1095,Freelance,Income,Design Studio,Net Banking,9722.58,Delhi,Completed
+1048,2025-06-23,C1098,Shopping,Expense,Electro World,Debit Card,4118.61,Nagpur,Completed
+1049,2025-01-17,C1043,Freelance,Income,Consulting Desk,Cash,6381.21,Nagpur,Completed
+1050,2025-07-20,C1051,Investment,Income,Mutual Fund,Cash,6921.93,Bengaluru,Completed
+1051,2025-02-25,C1039,Shopping,Expense,Urban Store,Credit Card,8676.47,Hyderabad,Completed
+1052,2025-04-01,C1024,Food,Expense,Cafe Corner,UPI,1800.31,Bengaluru,Completed
+1053,2025-04-30,C1048,Shopping,Expense,Urban Store,Credit Card,4957.36,Mumbai,Completed
+1054,2025-07-30,C1054,Travel,Expense,Fuel Station,UPI,5940.69,Bengaluru,Pending
+1055,2025-04-16,C1091,Food,Expense,Food Hub,Credit Card,712.77,Nagpur,Completed
+1056,2025-06-08,C1036,Healthcare,Expense,Care Pharmacy,UPI,3616.83,Pune,Completed
+1057,2025-07-24,C1073,Healthcare,Expense,City Clinic,Net Banking,1878.51,Bengaluru,Completed
+1058,2025-02-16,C1090,Shopping,Expense,Electro World,Net Banking,7988.45,Nagpur,Completed
+1059,2025-03-31,C1056,Travel,Expense,Fuel Station,Net Banking,1323.6,Delhi,Completed
+1060,2025-10-19,C1114,Food,Expense,Cafe Corner,Debit Card,1821.95,Delhi,Completed
+1061,2025-12-08,C1093,Freelance,Income,Design Studio,Net Banking,18356.97,Bengaluru,Failed
+1062,2025-10-11,C1065,Food,Expense,Daily Needs,Net Banking,1079.65,Bengaluru,Completed
+1063,2025-04-17,C1089,Bills,Expense,Water Utility,Net Banking,2579.75,Mumbai,Completed
+1064,2025-04-10,C1118,Travel,Expense,Metro Travel,Debit Card,361.2,Delhi,Completed
+1065,2025-09-06,C1092,Bills,Expense,Water Utility,Credit Card,871.47,Bengaluru,Completed
+1066,2025-03-24,C1038,Food,Expense,Fresh Mart,Cash,290.65,Delhi,Completed
+1067,2025-02-09,C1057,Entertainment,Expense,Music Stream,Credit Card,237.0,Pune,Completed
+1068,2025-12-12,C1082,Bills,Expense,Electricity Board,Net Banking,2489.26,Delhi,Completed
+1069,2025-01-27,C1026,Healthcare,Expense,Care Pharmacy,Debit Card,530.92,Pune,Completed
+1070,2025-01-09,C1025,Travel,Expense,City Cabs,Credit Card,5938.96,Hyderabad,Completed
+1071,2025-12-07,C1014,Food,Expense,Daily Needs,Debit Card,625.86,Nagpur,Completed
+1072,2025-11-16,C1016,Shopping,Expense,Style Point,Credit Card,5104.47,Hyderabad,Completed
+1073,2025-03-30,C1028,Food,Refund,Food Hub,Credit Card,1721.48,Hyderabad,Completed
+1074,2025-05-23,C1028,Entertainment,Expense,Music Stream,Debit Card,1417.63,Nagpur,Completed
+1075,2025-02-22,C1073,Education,Expense,Learning Hub,Debit Card,9599.49,Hyderabad,Completed
+1076,2025-11-20,C1089,Education,Expense,Learning Hub,Debit Card,8295.86,Pune,Completed
+1077,2025-12-19,C1043,Shopping,Expense,Urban Store,Cash,7738.21,Nagpur,Completed
+1078,2025-09-19,C1002,Entertainment,Expense,Movie House,UPI,967.0,Nagpur,Completed
+1079,2025-03-05,C1080,Shopping,Expense,Urban Store,UPI,6772.26,Pune,Completed
+1080,2025-06-01,C1031,Shopping,Expense,Home Needs,Debit Card,3693.86,Pune,Completed
+1081,2025-11-26,C1102,Salary,Income,XYZ Solutions,Debit Card,27376.45,Hyderabad,Completed
+1082,2025-06-19,C1118,Travel,Expense,Metro Travel,Credit Card,1473.16,Nagpur,Completed
+1083,2025-09-24,C1112,Shopping,Refund,Home Needs,UPI,4260.07,Pune,Completed
+1084,2025-03-14,C1023,Freelance,Income,Consulting Desk,Cash,5762.34,Pune,Completed
+1085,2025-02-10,C1026,Travel,Expense,Metro Travel,Net Banking,2962.32,Pune,Completed
+1086,2025-06-05,C1035,Shopping,Expense,Home Needs,UPI,4310.31,Mumbai,Completed
+1087,2025-03-27,C1056,Bills,Expense,Internet Services,Net Banking,2402.14,Hyderabad,Completed
+1088,2025-08-07,C1118,Salary,Income,XYZ Solutions,Cash,70531.5,Nagpur,Completed
+1089,2025-03-31,C1049,Shopping,Expense,Home Needs,UPI,4441.04,Mumbai,Completed
+1090,2025-08-29,C1111,Shopping,Refund,Electro World,Net Banking,8287.12,Bengaluru,Completed
+1091,2025-07-22,C1063,Investment,Income,Equity Broker,Cash,11821.2,Hyderabad,Completed
+1092,2025-01-20,C1120,Investment,Income,Savings Plan,Credit Card,4609.85,Pune,Completed
+1093,2025-05-11,C1045,Salary,Income,Northstar Services,Net Banking,70094.64,Delhi,Completed
+1094,2025-12-23,C1032,Food,Expense,Cafe Corner,Net Banking,1117.0,Hyderabad,Completed
+1095,2025-07-05,C1083,Entertainment,Expense,Movie House,Debit Card,2432.2,Nagpur,Completed
+1096,2025-12-15,C1085,Food,Expense,Cafe Corner,UPI,806.68,Hyderabad,Completed
+1097,2025-11-26,C1116,Education,Expense,Learning Hub,Cash,4920.0,Pune,Completed
+1098,2025-03-26,C1039,Salary,Income,Northstar Services,Cash,40172.27,Delhi,Completed
+1099,2025-10-28,C1094,Shopping,Expense,Urban Store,UPI,3998.68,Delhi,Completed
+1100,2025-06-26,C1027,Salary,Income,Northstar Services,Net Banking,41141.28,Delhi,Completed
+1101,2025-03-28,C1009,Salary,Income,Northstar Services,Net Banking,25094.71,Nagpur,Completed
+1102,2025-05-28,C1091,Education,Expense,Learning Hub,Credit Card,2462.29,Bengaluru,Completed
+1103,2025-02-26,C1008,Bills,Expense,Internet Services,Credit Card,4164.67,Mumbai,Failed
+1104,2025-07-29,C1082,Bills,Expense,Internet Services,UPI,4608.37,Mumbai,Completed
+1105,2025-03-05,C1062,Shopping,Expense,Home Needs,UPI,3408.29,Hyderabad,Completed
+1106,2025-01-04,C1028,Entertainment,Expense,Game Zone,UPI,2804.38,Bengaluru,Completed
+1107,2025-05-17,C1044,Freelance,Income,Consulting Desk,Net Banking,13411.1,Mumbai,Completed
+1108,2025-06-25,C1047,Investment,Income,Savings Plan,Net Banking,24688.57,Bengaluru,Completed
+1109,2025-07-02,C1001,Freelance,Income,DataWorks,Net Banking,20737.94,Delhi,Completed
+1110,2025-03-13,C1090,Food,Expense,Cafe Corner,Debit Card,526.51,Bengaluru,Completed
+1111,2025-12-04,C1085,Freelance,Income,Design Studio,UPI,14328.11,Delhi,Pending
+1112,2025-06-14,C1104,Food,Expense,Daily Needs,Net Banking,1060.46,Pune,Completed
+1113,2025-07-24,C1120,Education,Expense,Book Store,UPI,9630.54,Delhi,Completed
+1114,2025-11-07,C1074,Shopping,Expense,Urban Store,Credit Card,1716.87,Bengaluru,Completed
+1115,2025-06-04,C1112,Salary,Income,XYZ Solutions,Credit Card,84778.28,Bengaluru,Pending
+1116,2025-09-04,C1097,Entertainment,Expense,Game Zone,UPI,994.98,Hyderabad,Completed
+1117,2025-01-15,C1099,Food,Expense,Daily Needs,Credit Card,2340.18,Delhi,Completed
+1118,2025-09-01,C1086,Investment,Income,Mutual Fund,Cash,20447.44,Delhi,Completed
+1119,2025-02-16,C1029,Salary,Income,Northstar Services,Cash,44968.07,Hyderabad,Completed
+1120,2025-07-13,C1093,Freelance,Income,DataWorks,Cash,19345.29,Bengaluru,Completed
+1121,2025-04-25,C1044,Shopping,Expense,Style Point,UPI,2973.3,Nagpur,Completed
+1122,2025-06-10,C1001,Investment,Income,Equity Broker,UPI,17730.59,Nagpur,Completed
+1123,2025-07-18,C1047,Investment,Income,Savings Plan,Credit Card,10269.65,Nagpur,Completed
+1124,2025-10-30,C1059,Shopping,Expense,Electro World,Credit Card,3860.16,Mumbai,Completed
+1125,2025-09-13,C1096,Entertainment,Expense,Game Zone,UPI,686.5,Nagpur,Completed
+1126,2025-09-15,C1109,Investment,Income,Savings Plan,Cash,4580.46,Bengaluru,Completed
+1127,2025-04-21,C1104,Bills,Expense,Mobile Network,Credit Card,3668.63,Delhi,Completed
+1128,2025-04-26,C1023,Education,Expense,Book Store,Net Banking,1104.51,Mumbai,Failed
+1129,2025-12-04,C1003,Freelance,Income,Consulting Desk,Net Banking,6502.25,Mumbai,Completed
+1130,2025-08-31,C1051,Investment,Income,Mutual Fund,Cash,22973.71,Delhi,Completed
+1131,2025-12-23,C1071,Freelance,Income,DataWorks,UPI,18424.39,Pune,Completed
+1132,2025-10-25,C1120,Freelance,Income,Consulting Desk,Debit Card,4190.71,Bengaluru,Completed
+1133,2025-10-23,C1019,Food,Expense,Cafe Corner,Credit Card,1815.9,Delhi,Completed
+1134,2025-11-30,C1087,Food,Expense,Cafe Corner,Net Banking,1883.4,Bengaluru,Completed
+1135,2025-03-28,C1061,Freelance,Income,Design Studio,UPI,5113.05,Hyderabad,Failed
+1136,2025-11-29,C1093,Travel,Expense,Fuel Station,Credit Card,2772.78,Hyderabad,Completed
+1137,2025-07-23,C1084,Bills,Expense,Water Utility,UPI,3595.93,Bengaluru,Completed
+1138,2025-11-29,C1002,Travel,Expense,City Cabs,UPI,3904.3,Hyderabad,Completed
+1139,2025-11-25,C1074,Entertainment,Refund,Game Zone,Net Banking,1882.17,Mumbai,Completed
+1140,2025-02-18,C1062,Salary,Income,Northstar Services,Net Banking,35865.8,Mumbai,Completed
+1141,2025-02-20,C1069,Shopping,Expense,Style Point,Net Banking,6567.03,Delhi,Completed
+1142,2025-10-12,C1068,Salary,Income,XYZ Solutions,UPI,72008.47,Nagpur,Completed
+1143,2025-10-03,C1097,Education,Expense,Learning Hub,UPI,9585.78,Pune,Completed
+1144,2025-12-22,C1016,Food,Expense,Fresh Mart,Credit Card,1498.12,Nagpur,Completed
+1145,2025-03-24,C1011,Food,Expense,Fresh Mart,Cash,827.71,Mumbai,Completed
+1146,2025-10-06,C1032,Food,Expense,Daily Needs,UPI,2448.48,Nagpur,Completed
+1147,2025-05-31,C1089,Entertainment,Expense,Music Stream,Cash,1668.24,Mumbai,Completed
+1148,2025-09-19,C1031,Shopping,Expense,Urban Store,Credit Card,1341.58,Pune,Completed
+1149,2025-04-21,C1028,Investment,Income,Savings Plan,Debit Card,18462.19,Mumbai,Completed
+1150,2025-11-15,C1084,Travel,Expense,Metro Travel,Net Banking,3434.14,Bengaluru,Completed
+1151,2025-05-11,C1027,Entertainment,Expense,Movie House,Debit Card,3302.66,Delhi,Completed
+1152,2025-04-09,C1066,Education,Expense,Online Academy,Credit Card,6981.88,Bengaluru,Completed
+1153,2025-06-11,C1004,Investment,Income,Savings Plan,Credit Card,13575.19,Hyderabad,Completed
+1154,2025-09-30,C1082,Food,Expense,Fresh Mart,Debit Card,1483.83,Mumbai,Completed
+1155,2025-03-16,C1002,Freelance,Income,Design Studio,Net Banking,7966.84,Pune,Completed
+1156,2025-02-23,C1068,Salary,Income,Northstar Services,Debit Card,32410.21,Nagpur,Completed
+1157,2025-09-08,C1037,Food,Expense,Daily Needs,Cash,1035.03,Hyderabad,Completed
+1158,2025-03-29,C1104,Shopping,Expense,Home Needs,Net Banking,6890.92,Nagpur,Completed
+1159,2025-01-05,C1019,Entertainment,Expense,Music Stream,Cash,2553.63,Delhi,Completed
+1160,2025-11-24,C1032,Investment,Income,Savings Plan,Cash,21517.57,Bengaluru,Completed
+1161,2025-04-04,C1037,Bills,Expense,Mobile Network,Net Banking,2093.01,Nagpur,Pending
+1162,2025-04-28,C1053,Shopping,Expense,Electro World,UPI,7792.33,Delhi,Completed
+1163,2025-05-03,C1008,Investment,Income,Mutual Fund,Debit Card,5788.28,Nagpur,Completed
+1164,2025-01-06,C1066,Investment,Income,Savings Plan,Credit Card,13295.53,Bengaluru,Completed
+1165,2025-12-17,C1090,Investment,Income,Mutual Fund,Net Banking,26754.34,Hyderabad,Completed
+1166,2025-01-04,C1032,Education,Expense,Online Academy,Cash,8579.8,Delhi,Completed
+1167,2025-11-07,C1098,Bills,Expense,Internet Services,Credit Card,1258.4,Hyderabad,Completed
+1168,2025-03-10,C1049,Bills,Expense,Internet Services,Debit Card,4786.18,Hyderabad,Completed
+1169,2025-12-14,C1016,Shopping,Expense,Electro World,Debit Card,5082.52,Bengaluru,Completed
+1170,2025-04-20,C1119,Food,Expense,Daily Needs,Cash,1670.15,Hyderabad,Completed
+1171,2025-11-13,C1001,Salary,Income,Northstar Services,Net Banking,28449.8,Mumbai,Completed
+1172,2025-02-24,C1046,Food,Expense,Fresh Mart,UPI,2252.94,Bengaluru,Completed
+1173,2025-02-13,C1117,Bills,Expense,Water Utility,UPI,4543.29,Pune,Completed
+1174,2025-05-09,C1055,Shopping,Expense,Style Point,Cash,3860.55,Mumbai,Completed
+1175,2025-08-13,C1096,Entertainment,Expense,Music Stream,UPI,1649.88,Mumbai,Completed
+1176,2025-12-30,C1051,Shopping,Expense,Home Needs,Debit Card,2111.32,Hyderabad,Completed
+1177,2025-04-12,C1035,Investment,Income,Mutual Fund,Net Banking,28831.27,Bengaluru,Completed
+1178,2025-12-16,C1113,Education,Expense,Book Store,Cash,4236.21,Delhi,Completed
+1179,2025-07-19,C1017,Food,Expense,Cafe Corner,Debit Card,2404.78,Nagpur,Completed
+1180,2025-12-17,C1077,Shopping,Expense,Urban Store,Net Banking,6265.64,Bengaluru,Completed
+1181,2025-09-06,C1094,Food,Expense,Cafe Corner,Credit Card,1215.14,Mumbai,Completed
+1182,2025-05-15,C1106,Investment,Income,Equity Broker,Credit Card,8173.28,Bengaluru,Completed
+1183,2025-02-22,C1110,Education,Expense,Online Academy,Credit Card,6276.84,Pune,Completed
+1184,2025-07-25,C1055,Food,Expense,Fresh Mart,Cash,2478.4,Pune,Completed
+1185,2025-01-27,C1030,Travel,Expense,Metro Travel,Debit Card,3292.34,Bengaluru,Completed
+1186,2025-09-19,C1047,Travel,Expense,Rail Connect,Debit Card,594.44,Delhi,Completed
+1187,2025-06-13,C1001,Freelance,Income,Design Studio,Debit Card,6998.54,Pune,Completed
+1188,2025-05-24,C1024,Freelance,Income,DataWorks,Net Banking,5216.76,Mumbai,Completed
+1189,2025-02-27,C1111,Food,Expense,Cafe Corner,Debit Card,280.74,Mumbai,Completed
+1190,2025-07-05,C1078,Salary,Income,XYZ Solutions,Credit Card,60334.66,Delhi,Completed
+1191,2025-10-27,C1096,Travel,Expense,City Cabs,UPI,5357.0,Nagpur,Pending
+1192,2025-12-02,C1058,Salary,Income,ABC Technologies,UPI,36575.65,Nagpur,Completed
+1193,2025-06-04,C1093,Education,Expense,Learning Hub,UPI,11880.91,Pune,Completed
+1194,2025-10-09,C1109,Education,Expense,Online Academy,Debit Card,10753.25,Mumbai,Completed
+1195,2025-03-02,C1054,Freelance,Income,Consulting Desk,Cash,4489.59,Hyderabad,Completed
+1196,2025-05-21,C1073,Education,Expense,Learning Hub,Credit Card,1982.74,Delhi,Completed
+1197,2025-09-11,C1022,Entertainment,Expense,Music Stream,Cash,3071.84,Bengaluru,Completed
+1198,2025-07-19,C1021,Travel,Expense,Metro Travel,Cash,1847.52,Delhi,Completed
+1199,2025-09-20,C1039,Bills,Expense,Internet Services,Debit Card,3684.89,Delhi,Completed
+1200,2025-03-02,C1006,Food,Expense,Cafe Corner,Debit Card,352.63,Pune,Completed
